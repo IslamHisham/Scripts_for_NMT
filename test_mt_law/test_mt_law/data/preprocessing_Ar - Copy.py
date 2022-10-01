@@ -1,15 +1,15 @@
-#from tempfile import mkstemp
-#from shutil import move, copymode
-#from os import fdopen, remove
+from tempfile import mkstemp
+from shutil import move, copymode
+from os import fdopen, remove
 import re
 import sys
 inFile = sys.argv[1]
-outFile = sys.argv[2]
-def replace_num(inFile,outFile):
+
+def replace_num(file_path):
     #Create temp file
-    #fh, abs_path = mkstemp()
-    with open(outFile,'x',encoding="utf8") as new_file:
-        with open(inFile,'r',encoding="utf8") as old_file:
+    fh, abs_path = mkstemp()
+    with fdopen(fh,'w') as new_file:
+        with open(file_path) as old_file:
             for line in old_file:
                 x = re.sub(r'[’]', "'", line) 
                 x = re.sub(r'[“”]', '"', x)
@@ -51,13 +51,11 @@ def replace_num(inFile,outFile):
                 new_file.write(x+'\n')
                 #new_file.write(line.replace(pattern, subst))
     #Copy the file permissions from the old file to the new file
-    #copymode(file_path, abs_path)
+    copymode(file_path, abs_path)
     #Remove original file
-    #remove(file_path)
+    remove(file_path)
     #Move new file
-    #move(abs_path, file_path)
+    move(abs_path, file_path)
 
 # Call the function with the file path to be processed
 #replace_num(inFile)
-if __name__ == '__main__':
-    replace_num(inFile,outFile)

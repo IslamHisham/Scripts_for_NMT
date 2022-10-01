@@ -1,0 +1,1000 @@
+all employees are responsible for following health and safety laws and company requirements that apply to their jobs .
+the other day , a machine i was operating became jammed .
+did i do the right thing , or should i have stopped the machine and cleared the jam myself ?
+our safety procedures require machines to be locked and tagged out before they can be cleared or serviced , and only employees trained and authorized to perform loto are allowed to do this .
+the breadth of our operations means that cargill touches almost every aspect of society .
+with our global reach comes the responsibility to understand and manage our impact .
+
+products are protected by copyright and other intellectual property rights laws and international treaties .
+microsoft reserves all rights not expressly granted in this agreement .
+previews are provided " as - is , " " with all faults , " and " as - available , " and are excluded from the sla and all limited warranties provided in this agreement .
+previews may not be covered by customer support .
+previews may be subject to reduced or different security , compliance , and privacy commitments , as further explained in the online services terms and any additional notices provided with the preview .
+microsoft will engage an independent auditor , which will be subject to a confidentiality obligation .
+any information collected in the self - audit will be used solely for purposes of determining compliance .
+provisions in this agreement with respect to the sla and data retention may not apply .
+additional quantities of online services added to a subscription will expire at the end of that subscription .
+eligibility for academic , government and nonprofit versions .
+microsoft reserves the right to verify eligibility at any time and suspend the online service if the eligibility requirements are not met .
+the parties are not liable for any of the taxes of the other party that the other party is legally obligated to pay and which are incurred or arise in connection with or related to the transactions contemplated under this agreement , and all such taxes will be the financial responsibility of the party who is obligated by operation of law to pay such tax .
+customer consents to the processing of personal information by microsoft and its agents to facilitate the subject matter of this agreement .
+customer will obtain all required consents from third parties under applicable privacy and data protection laws before providing personal information to microsoft .
+additional privacy and security details are in the online services terms .
+microsoft warrants that each version of the software will perform substantially as described in the applicable product documentation for one year from the date customer is first licensed for that version .
+microsoft warrants that each online service will perform in accordance with the applicable sla during customer 's use .
+customer 's remedies for breach of this warranty are in the sla .
+the remedies above are customer 's sole remedies for breach of the warranties in this section .
+customer waives any breach of warranty claims not made during the warranty period .
+you must send notices by mail , return receipt requested , to the address below .
+you agree to receive electronic notices from us , which will be sent by email to the account administrator %LBR s %RBR named for your subscription .
+notices are effective on the date on the return receipt or , for email , when sent .
+you are responsible for ensuring that the email address for the account administrator %LBR s %RBR named for your subscription is accurate and current .
+any email notice that we send to that email address will be effective when sent , whether or not you actually receive the email .
+you may not assign this agreement either in whole or in part .
+microsoft may transfer this agreement without your consent , but only to one of microsoft 's affiliates .
+if any part of this agreement is held unenforceable , the rest remains in full force and effect .
+failure to enforce any provision of this agreement will not constitute a waiver .
+this agreement does not create an agency , partnership , or joint venture .
+there are no third - party beneficiaries to this agreement .
+microsoft may use contractors to perform services , but will be responsible for their performance , subject to the terms of this agreement .
+customer is free to enter into agreements to license , use or promote non - microsoft products or services .
+this agreement is governed by the laws of ireland .
+if microsoft brings an action to enforce this agreement , microsoft will bring it in the jurisdiction where customer has its headquarters .
+if customer brings an action to enforce this agreement , customer will bring it in ireland .
+this choice of jurisdiction does not prevent either party from seeking injunctive relief in any appropriate jurisdiction with respect to violation of intellectual property rights .
+this agreement is the entire agreement concerning its subject matter and supersedes any prior or concurrent communications .
+in the case of a conflict between any documents in this agreement that is not expressly resolved in those documents , their terms will control in the following order of descending priority :
+neither party will be liable for any failure in performance due to causes beyond that party 's reasonable control %LBR such as fire , explosion , power blackout , earthquake , flood , severe storms , strike , embargo , labor disputes , acts of civil or military authority , war , terrorism %LBR including cyber terrorism %RBR , acts of god , acts or omissions of internet traffic carriers , actions or omissions of regulatory or governmental bodies %LBR including the passage of laws or regulations or other acts of government that impact the delivery of online services %RBR %RBR .
+this section will not , however , apply to your payment obligations under this agreement .
+if you are an individual accepting these terms on behalf of an entity , you represent that you have the legal authority to enter into this agreement on that entity 's behalf .
+waiver of right to void online purchases .
+any reference in this agreement to " day " will be a calendar day .
+" acceptable use policy " is set forth in the online services terms .
+" affiliate " means any legal entity that a party owns , that owns a party , or that is under common ownership with a party .
+" ownership " means , for purposes of this definition , control of more than a %NUMBER % interest in an entity .
+" consumption offering " , " commitment offering " , or " limited offering " describe categories of subscription offers and are defined in section %NUMBER .
+" customer data " is defined in the online services terms .
+" non - microsoft product " is defined in the online services terms .
+" online services " means any of the microsoft - hosted online services subscribed to by customer under this agreement , including microsoft dynamics online services , office %NUMBER services , microsoft azure services , or microsoft intune online services .
+" previews " means preview , beta , or other pre - release version or feature of the online services or software offered by microsoft to obtain customer feedback .
+" product terms " means the document that provides information about microsoft products and professional services available through volume licensing .
+" reseller " means an entity authorized by microsoft to resell software licenses and online service subscriptions under this program and engaged by you to provide assistance with your subscription .
+" software " means licensed copies of microsoft software identified on the product terms .
+" subscription " means an enrollment for online services for a defined term as established by your reseller .
+" term " means the duration of a subscription %LBR e . g . , %NUMBER days or %NUMBER months %RBR .
+the use rights supersede the terms of any end user license agreement that accompanies a product .
+the use rights for software are published by microsoft in the product terms .
+the use rights for online services are published in the online services terms .
+microsoft volume licensing online services terms %LBR worldwide english , july %NUMBER %RBR
+at all times during the term of customer 's subscription , customer will have the ability to access and extract customer data stored in each online service .
+after the %NUMBER - day retention period ends , microsoft will disable customer 's account and delete the customer data .
+if customer installs or uses any non - microsoft product with an online service , customer may not do so in any way that would subject microsoft 's intellectual property or technology to obligations beyond those expressly included in customer 's volume licensing agreement .
+the following services , each as a standalone service or as included in a dynamics %NUMBER branded plan or application :
+microsoft dynamics %NUMBER for customer service , microsoft dynamics %NUMBER for field service , microsoft dynamics %NUMBER for project service automation , microsoft dynamics %NUMBER for sales , and microsoft social engagement .
+microsoft dynamics %NUMBER for case management , enterprise edition
+microsoft dynamics %NUMBER for customer service , enterprise edition
+microsoft dynamics %NUMBER for field services , enterprise edition
+microsoft dynamics %NUMBER for project service automation , enterprise edition
+microsoft dynamics %NUMBER for team members , business edition
+microsoft dynamics %NUMBER for team members , enterprise edition
+the bing maps and professional services notices in attachment %NUMBER apply .
+any onboarding , migration , or deployment services provided to customer as subjection to the professional services notice in attachment %NUMBER .
+in addition to user sls , refer to attachment %NUMBER for other offerings that fulfill sl requirements .
+external users of microsoft dynamics %NUMBER services do not need a sl to access the online service .
+server use rights for dynamics %NUMBER user sls , from sa user sls and add - on user sls
+this patient billing and collection policy is consistent with upmc 's mission and in compliance with the federal affordable care act .
+all patients who have received emergency or medically necessary care shall be provided the opportunity to apply for free or reduced cost care in conformance with the federal patient protection and affordable care act and its implementing regulations .
+upmc will not discriminate on the basis of race , color , national origin , citizenship , alienage , religion , creed , gender , sexual preference , age , or disability in providing its services .
+this policy , along with the related financial assistance policy , establishes upmc 's procedures regarding collection of patient accounts .
+the purpose of the policy is to reasonably balance the need for financial stewardship with needs of individual patients who are unable or unwilling to pay their accounts .
+in order for upmc to responsibly manage its resources and provide the appropriate level of assistance to the greatest number of persons in need , patients are expected to contribute to the cost of their care based on the requirements of their insurance , or in the case of those uninsured / underinsured , based on their individual ability to pay .
+links to policies referenced within this policy can be found in section viii .
+the patient billing and collection policy provides general guidelines for patient billing and collecting payment for services .
+the purpose is to assure reasonable collection of accounts from all appropriate sources and to recognize at the earliest point possible when an individual requires assistance and / or that an account may qualify for medical assistance or free care , discounted care , or as bad debt .
+the policy is intended to achieve upmc compliance with applicable state and federal requirements including those of the fair debt collection practices act .
+this policy applies to all fully integrated united states based upmc hospitals .
+the upmc financial assistance policy provides assistance to eligible patients who are uninsured , underinsured , ineligible for governmental healthcare benefit programs , and for whom it would be a hardship to pay fully for the cost of their care .
+it is upmc 's policy to pursue collection of patient balances from those patients who have the ability to pay for these services .
+the upmc patient billing & collection policy will be applied consistently to all patients regardless of insurance status .
+collection procedures will comply with applicable laws and with upmc 's mission and values .
+consistent with this policy and the upmc financial assistance process , policy hs - re %NUMBER , upmc will clearly communicate with patients regarding financial assistance needs and payment expectations as early in the appointment and billing process as possible .
+upmc policy prohibits requiring payment for emergency medical conditions prior to the patient having received services or undertaking collection activities that could interfere with provision of emergency medical care .
+%LBR refer to upmc policy hs - le %NUMBER , emergency medical treatment and active labor act %LBR emtala %RBR .
+upmc 's code of conduct policy governs the actions of individuals employed by or associated with upmc and its affiliates .
+the code 's written guidelines , which are based on upmc 's mission , vision , values , and ethics , outline how people must conduct themselves when providing any service on behalf of upmc .
+all financial information obtained from patients will be kept confidential .
+refer to upmc polices hs - hr %NUMBER , confidential information and hs - ad %NUMBER , consent for treatment and use and disclosure of information for treatment / payment / health care operations .
+upmc will make reasonable efforts to identify third - party payers to assist patients in resolving their bills .
+upmc will also take the following actions :
+validate that the patient owes the unpaid bills .
+work with patients toward resolution of outstanding insurance claim payment issues .
+inform patients of , and provide them with reasonable assistance in applying for financial assistance offered by upmc .
+invoice patients for the amount of the cost of services for which they have a financial responsibility after the steps outlined above have been taken .
+it is the patient 's responsibility to provide upmc with accurate information regarding health insurance %LBR including primary and secondary carriers %RBR , address , and applicable financial resources to determine whether the patient is eligible for coverage through private insurance or through available public assistance programs .
+the patient is expected to assign benefits due from any insurance carriers .
+upmc registration staff will obtain demographic and financial / insurance information , including specifics as to the types of insurance coverage available , prior to or at the time services are rendered .
+patients may be requested to provide identification such as driver 's license , telephone numbers including cell phones , email addresses , etc . to insure accuracy of demographics and will also be asked to provide proof of insurance coverage by presenting a valid insurance card .
+upmc will make reasonable efforts to verify patient supplied information when services are scheduled or at the time the patient receives services .
+if the patient or guarantor is unable to provide the billing and collection information needed , including demographic and insurance information , upmc will attempt to obtain the information for the individual .
+upmc will make reasonable and diligent efforts to investigate whether a third party resource may be responsible for payment for the services provided .
+where upmc 's reasonable and diligent efforts result in a payment on the health care claim billed , the payment will be applied to the outstanding account .
+upmc reserves the right to utilize outside agencies to help pursue payment for services .
+in recognition that some patients express their financial concerns directly to their physicians , nurse or other treatment providers , upmc trains staff responsible for admissions , billing , and providing direct patient treatment , about the existence of upmc 's financial assistance program and how a patient may obtain more information on it .
+the patient has the responsibility to obtain proper physicians referral %LBR s %RBR or other authorizations and may be responsible for unpaid claims resulting from failure to obtain authorization from the insurance provider .
+the individual is required to inform either his / her current health insurer %LBR if applicable %RBR or the agency that determined the patient 's eligibility status in a public health insurance program of any changes in family income or insurance status .
+in the event of a denial of benefits from the insurance carrier or other responsible party , the patient is expected to assist upmc in any appeal as necessary .
+patients are required to notify any public health insurance program of any lawsuit or insurance claim that will or could cover the cost of the services provided by upmc .
+upmc expects patients to adhere to upmc policies and guidelines in paying their outstanding balances in a timely manner .
+upmc is responsible for the prompt processing and aggregation of charges for services provided to patients in order to provide for the timely collection of charges and to maintain the financial solvency of upmc .
+upmc bills the insurance carrier %LBR payer %RBR for most services .
+co - pays and any other patient responsibility amounts are due at the time of service .
+the individual will be responsible for paying any charges for services not covered by insurance , which may include the entire amount charged .
+payment may be required in advance or at the time of service , particularly for non %SYMBOL covered services , copayments , and other deductibles , or selected services such as cosmetic procedures as defined in upmc policy hs - re %NUMBER , financial clearance for elective scheduled services .
+upmc sends patient bills in accordance with the regulations of the centers for medicare and medicaid services %LBR cms %RBR and insurance industry regulations .
+insurance carriers may have different requirements based on the insurer 's contract with upmc .
+billing shall be consistent with the terms of this contract .
+patients may receive separate bills for services rendered at upmc such as hospital services , physician services , or an external service , such as an ambulance .
+the hospital bill reflects the room rate , medication , medical supplies , and services including those provided by a hospital based clinic .
+the hospital bill , sometimes referred to as the facility bill , covers the cost of operating the facility and other overhead costs .
+the physician 's bill is for professional services or procedures performed by the physician .
+customer service departments are available to provide information or answer questions about patient billing .
+the contact information is provided on the patient statements , and is also listed on the upmc website and published in several patient information sources .
+upmc shall comply with applicable requirements with respect to non - billing for specific services or readmissions that upmc determines to have resulted from a serious reportable events %LBR sre %RBR .
+sres that do not occur at upmc do not preclude upmc from billing for related services .
+upmc further maintains all patient - related information in accordance with applicable federal and state privacy , security , and id theft laws .
+upmc 's billing statements , payment plan statements and dunning letters contain a conspicuous written notice informing patients about the availability of financial assistance which includes :
+%NUMBER %RBR how to obtain the information regarding the program
+once the patient 's financial responsibility has been established , upmc will provide the patient with information on options available to address the patient balances .
+patients will be informed of the process by which they may question or dispute bills .
+the name of the office , its address , and a toll - free phone number to which disputes should be directed will be listed on all patient bills and collection notices sent by upmc .
+upmc will respond in writing or by phone to inquiries made by patients to this number within %NUMBER business days after notice of the dispute is received .
+should the dispute require further investigation , all collection actions will cease until a final decision has been rendered on the matter .
+delinquent accounts %SYMBOL a patient 's account may become delinquent if payment is not made by the due date noted on the patient statement .
+if payment is not made for more than two billing cycles or if a partial payment is made , the account may become delinquent .
+steps will be taken to communicate with patients with delinquent accounts encouraging them to comply with payment plans in order to prevent referrals to outside collection agencies .
+upmc will provide information on financial assistance and payment options to patients informing them of the outstanding balance due .
+upmc may use the following methods in order to collect payment from patients with delinquent accounts :
+during any stage of the revenue cycle process , if a determination is made that the patient requests financial assistance , all collection efforts will be suspended .
+if the patient applies for upmc 's financial assistance , all collection efforts will be suspended while the application is being considered and the patient is notified regarding the determination of eligibility .
+upmc provides patients with the ability to pay off their account %LBR s %RBR utilizing a zero percentage , short - term monthly payment plan .
+under the payment plan option , patients may take up to thirty six months to pay off their account %LBR s %RBR , length determined based on balance and payment plan guidelines , and will receive a statement each month that shows the monthly payment amount and the remaining balance left to pay .
+a patient may cancel the payment plan agreement at any time by means of a verbal or written communication with or without cause .
+no account will be subject to bad debt collection actions within %NUMBER billing statement cycle of issuing the initial bill and without first making reasonable efforts to determine whether that patient is eligible for financial assistance , unless excluded below .
+upmc will not initiate collection actions against a patient if the patient has provided documentation showing that he or she has applied for health care coverage under medicaid , or another publicly sponsored health care program .
+collection actions may be taken by upmc when pursuing payment from patients with accounts in the following categories :
+delinquent accounts as defined in section v , g , %NUMBER , a in this policy . b .
+accounts granted discounts under financial assistance but where the patient is no longer cooperating in good faith to pay the remaining balance .
+accounts where patients have made no arrangements to resolve their outstanding balance .
+collection agencies may be used by upmc to assist in collecting patient balances .
+in general , accounts will not be placed with a full service collection agency until internal collection efforts are exhausted .
+external parties are required to abide by upmc policies when representing or working on behalf of upmc .
+a copy of the approved upmc patient billing and collection policy will be given to all collection agency %LBR s %RBR working to collect from patients on upmc accounts to assure compliance with the policy .
+the following collection actions may be pursued by upmc :
+%NUMBER %RBR an initial bill will be sent to the party responsible for the patient 's personal financial obligations .
+%NUMBER %RBR upmc will issue subsequent patient billings before referring an account to an external collection agency .
+patient billing statements inform the individual of the availability of upmc financial assistance and how to apply to the program .
+%NUMBER %RBR the patient may be contacted by telephone and by any other notification method that constitutes a genuine and reasonable effort to contact the party responsible for the financial obligation .
+%NUMBER %RBR upmc will utilize alternative methods to locate the party responsible for the obligation or to determine the correct address on patient billings returned by the postal office service as " incorrect address " or " undeliverable . "
+alternative methods may include use of skip tracing , use of the internet , post office records or other commercially available means of tracing a patient or guarantor 's residence or point of contact .
+%NUMBER %RBR the patient will receive a " final notice " indicating that the account will be referred to an external collection agency when an acceptable payment has not been received or when an appropriate payment plan has not been established .
+%NUMBER %RBR patients will be informed of the right to establish a payment plan and the option to apply for medical assistance , upmc financial assistance and of upmc 's patients ' notice and bill of rights and responsibilities .
+%NUMBER %RBR upmc will not engage in extraordinary collection actions such as lawsuits , liens on residences or property , arrests , body attachments , reporting to credit agencies or other similar collection processes .
+%NUMBER %RBR upmc will provide prompt and courteous financial counseling to all patients in need and will assist these patients in obtaining any available financial assistance from federal , state , or private agencies in order to meet their financial obligations to upmc .
+options for medical assistance or free care / uncompensated care will be made available to any patients who are unable to pay all or part of their accounts .
+the patient account may be referred to the third party collection agency for continued collection efforts .
+typically , the account is referred if payment is not made by the third billing cycle or if a payment plan is not established .
+the collection agencies are required to comply with %NUMBER %LBR r %RBR
+upmc researches all patient overpayments to ensure that patient refunds are made when appropriately due .
+the research and processing of patient refunds will be completed within a minimal time frame which will not exceed regulatory limits .
+hs - ec %NUMBER notice of privacy practices for protected health information %LBR phi %RBR pursuant to hipaa
+* with respect to upmc business units described in the scope section , this policy is intended to replace individual business unit policies covering the same subject matter .
+in - scope business unit policies covering the same subject matter should be pulled from all manuals .
+a printed or duplicate soft copy is considered uncontrolled .
+refer to the original online version for the latest revision .
+this policy establishes cisco 's global standards regarding the prevention of corruption .
+if local laws or regulations have stricter requirements , those laws supersede the requirements stated in this policy .
+cisco systems , inc . and its affiliated entities worldwide %LBR cisco %RBR are committed to doing business with integrity and the highest anti - corruption standards .
+all cisco employees , partners and suppliers are expected to conduct themselves with honesty , fairness and high ethical standards , as well as abide by all anti - corruption / anti - bribery laws and avoid even the perception of impropriety .
+as a global enterprise , cisco must comply with all applicable laws , including the us foreign corrupt practices act %LBR fcpa %RBR , the uk bribery act , and other similar anti - corruption laws around the world .
+these laws set prohibitions on giving bribes to government officials , books and records requirements , and criminal and civil penalties for violations .
+some laws apply strict liability standards , expand the scope to include giving and receiving bribes , and even apply to private sector individuals as a form of commercial bribery .
+the policy applies to the entire cisco workforce , operations , subsidiaries and affiliates , in terms of all dealings and transactions in all countries where cisco operates .
+in alignment with laws around the world , we at cisco do not promise , offer , give or authorize , directly or indirectly , a bribe or anything of value to anyone %SYMBOL including any government official / employee , representative of a government , including state - owned enterprises and / or state - controlled entities , private %LBR non - government %RBR officials , or employees of any business %SYMBOL to attempt to improperly influence any act or decision to obtain or retain business , or to secure any improper advantage for cisco .
+to combat corruption , most countries have enacted anti - corruption / anti - bribery laws and regulations .
+these laws make it a crime to give , pay or promise " anything of value " %LBR bribes %RBR to :
+influence an act or a decision to obtain , retain and / or direct business , or
+secure an improper advantage of any kind .
+it is also a crime to accept " anything of value " %LBR bribes %RBR in these circumstances .
+a bribe is not just cash in an envelope passed under a table .
+international laws and cisco policy define a bribe as " anything of value " such as : gift cards , home repairs , tickets to a theater or sporting event , guest passes to a private club , a no - bid contract , a summer job for a teenage family member , free limo / courtesy car service rides , and more , where given to obtain an improper advantage .
+just offering a bribe is a violation , even if the transfer does not occur .
+third parties may not bribe for cisco
+third parties %LBR also called " intermediaries " %RBR can not be used to try to hide bribery .
+suppliers , agents , consultants , distributors , and business partners can not offer or receive a bribe related to working for cisco or on cisco 's behalf .
+a cisco employee 's awareness of , inducing , facilitating or causing a third party to do an act that would violate this policy %LBR if done directly by the cisco employee %RBR is a violation of this policy .
+further information is available on the anti - corruption and bribery jive website , including guidance on third - party engagement , additional considerations before making or authorizing any payment or benefit that might trigger bribery concerns , and other warning signs , as follows :
+cisco 's third party due diligence process %LBR appendix c %RBR
+cisco recognizes that , when conducted appropriately , informal interactions and exchange of gifts or other offerings with our business associates may be an important part of building goodwill and developing relationships with customers , partners and suppliers and , in many countries , may be an accepted and appropriate business protocol and custom .
+however , if conducted inappropriately , gifts , travel , entertainment and other offerings , may violate applicable laws or cisco or third - party policies or principles .
+the code of business conduct %LBR cobc %RBR and the gifts , travel and entertainment policy %LBR gte %RBR policy set out the requirements for an acceptable gift or other offering , with disclosure and pre - approval guidelines .
+as a general rule , all gifts and other offerings must be done transparently and in the right way so that it does not create even a perception of impropriety .
+as set out in further detail in the gte policy , the giving or receiving of gifts and other offerings must be appropriate %LBR not cash , gift cards , or other prohibited types , not an attempt to unduly influence a business outcome , and otherwise in compliance with all laws , regulations and policies %RBR , reasonable value %LBR the gte policy sets out established thresholds %RBR , and may need to be disclosed and pre - approved .
+cisco permits the payment of certain travel and accommodation expenses for business guests in accordance with travel , expense and public sector policies if :
+it is reasonable given the guest 's level or seniority
+%LBR side trips would be non - business related for example , when the trip requires extensive travel away from the legitimate site of the business trip , or involves excessive expenses . %RBR
+if a third party , such as an agent , partner , supplier or consultant pays for travel and lodging on behalf of cisco , the above policies still apply .
+for further information , including disclosure and approval obligations , please refer to the global travel policy , the gte policy , and the global meetings and events policy .
+the global compliance enablement team provides online tools to disclose and obtain approval for any business expenses %LBR such as gift , travel , hospitality or entertainment %RBR provided to %LBR %NUMBER %RBR government officials including employees of partially or fully state - owned enterprises or state - controlled entities , such as , for instance , telecommunications or health care organizations that may be organized similarly to or compete with private enterprises , or %LBR %NUMBER %RBR other parties even if private sector , based on the requirements and thresholds set out in the gte policy .
+inappropriate or excessive gifts , travel or entertainment can cause legal liability and damage to cisco 's reputation .
+use the gte disclosure tool for disclosure and approval when giving gte items
+use the receipt of gifts disclosure tool for disclosure and approval when receiving gte items
+you can also contact ethics@ %WEBSITE with any questions or concerns about gifts , travel and entertainment .
+a " facilitation payment " is a payment to a government official designed to secure or speed up a routine government action to which the applicant is entitled , such as : processing a visa , scheduling an inspection , securing mail pick - up or delivery , or getting utilities connected .
+this is sometimes described as " greasing the wheels " or " grease payments . "
+except as described below , cisco does not permit the payment of facilitation payments anywhere in the world .
+facilitation payments are also expressly prohibited , and treated as bribes , by certain anticorruption laws %LBR uk , canada , brazil , etc . %RBR and many other countries and multi - country anti - corruption conventions %LBR such as the organization for economic cooperation and development %LBR oecd convention %RBR %RBR .
+a facilitation payment must only be paid as a final resort and with approval by cisco legal %LBR and with approval within your management chain at the level of director or above , and disclosure to your finance support lead %RBR if :
+there is no alternative and the expected delay will have a significant impact on the business
+it is in a country or situations in which such payments are customary and not expressly prohibited by law which is enforced in comparable cases
+the amount is modest given the facts and circumstances of the situation
+if personal safety , security or freedom of movement is at risk , a facilitation payment may be made and then reported to cisco legal after the fact .
+donations to charity may also be considered a gift under the gte policy %LBR requiring disclosure and approval , as referenced above %RBR .
+political parties and candidates are considered government officials .
+therefore , no political contributions can be offered or made on behalf of cisco , unless pre - approved by cisco government affairs .
+political contributions can come in any form , including :
+non - monetary items %LBR such as loaned or donated equipment , free technology services , or a donation of an employee 's time %RBR
+use of corporate resources %LBR such as : facilities , email , stationery , personnel time %RBR
+accordingly , no assets , including time at work , use of cisco premises or equipment , or direct monetary payments , may be contributed to a political candidate , political action committee , or to support or oppose a ballot measure without the written permission of cisco government affairs .
+cisco will not reimburse any personal political contributions .
+note : under u . s . election laws , some employees %LBR currently including board of directors , executive officers , and certain personnel involved in state - level customer sales relationships in new york , illinois , and connecticut %RBR may be required to obtain pre - approval via cisco 's u . s . political contribution tool before making certain kinds of campaign contributions .
+see cisco 's u . s . public sector ethics code for more information .
+to prevent attempts to hide bribery by incomplete or false documentation , many anti - corruption laws have criteria for books , records and internal financial controls .
+the requirement includes forms required for processing payments , attachments and backup used to justify payment requests , and authorizations and classifications of payments by accounting codes .
+off - book funds can be created in any number of ways with customers , partners , and marketing or other vendors , including , but not limited to : non - standard discounting , unrecovered rebates or credits , misuse of sales / marketing incentive funds , excess vendor payments %LBR including prepayments %RBR , or any other efforts to control the company 's funds outside of the company 's established financial record keeping processes .
+the establishment , retention or use of off - book funds %LBR and any attempt to circumvent or manipulate processes , systems or data associated with off - book funds %RBR , whether intentional or inadvertent , and even if ultimately used for an appropriate business expense or purpose , would be a serious violation of cisco 's code of business conduct , and this anti - corruption and bribery policy , and can result in severe disciplinary action %LBR s %RBR .
+for information on proper record retention , refer to cisco 's record management process .
+the online global anti - corruption training is required for cisco employees working in certain functions such as sales , marketing , services , legal and finance .
+however , all employees are encouraged to take this training .
+violations of anti - corruption laws can cause criminal , civil and regulatory penalties including fines and / or jail , and even the perception of impropriety can damage the reputation of cisco and its employees .
+if an employee violates anti - corruption laws or this policy , it may result in disciplinary action , including termination of employment .
+employees who see something suspicious are required to say something , even if it is their manager or other superior who may be violating the policy .
+please see appendix d %SYMBOL warning signs of bribery to help identify potential suspicious activities .
+any suspected retaliation should be reported immediately .
+you can contact the ethics office at ethics@ %WEBSITE , or there are other ways to voice concerns or report violations %LBR including anonymous and confidential reporting %RBR .
+see the " voice your concerns " web page for further information .
+this anti - corruption and bribery policy is effective on the %SYMBOL last revision date ' as indicated on the title page hereof .
+compliance with all cisco policies is required .
+compliance with this policy is verified through various methods , including but not limited to , active monitoring of the expense reimbursement and gift tracking systems , reports from available business tools , internal and external audits , self - assessment , reports of potential violations and / or other feedback to the policy owner .
+any exceptions to the anti - corruption and bribery policy must be approved by cisco legal and the ethics office .
+deviations or non - compliance with this policy , including attempts to circumvent the stated policy / process by bypassing or knowingly manipulating the process , system , or data , may result in disciplinary action , up to and including termination , as allowed by local laws .
+gte disclosure tool for disclosure and approval when giving gte items
+receipt of gifts disclosure tool for disclosure and approval when receiving gte items
+the appendices listed below can be found on the anti - corruption and bribery jive website :
+the following terms and definitions are used in this document :
+any form of benefit , which includes , but is not limited to :
+cash or cash equivalents , loans , gifts or prizes
+employment offers or promises of future employment %LBR to an individual or any of his / her relatives %RBR
+favorable terms on a product or service or product discounts
+opportunity to buy direct shares %LBR " friends and family shares " %RBR in a company with a connection to cisco
+directly or indirectly giving or receiving %LBR or even offering %RBR anything of value for the purpose of obtaining or retaining business , to win a business advantage , or to influence a decision regarding cisco .
+any state - owned enterprises %LBR defined below %RBR and / or state instrumentalities %LBR an entity for which there is control by the government and the entity is performing a governmental function %RBR and / or state - controlled entities %LBR defined below %RBR
+an officer or employee %LBR regardless of rank %RBR of the government , including officials from state - funded organizations , state - owned enterprises , or state - controlled entities
+includes companies , in which %NUMBER % and more is directly owned by a federal , regional or municipal body , and where one of the following criteria is met :
+the government has the ability to hire and fire the company 's principals
+the company 's profits , if any , go directly into a government treasury
+such soe performs a function the government treats as its own , including whether the entity has a monopoly over the function it carries out
+the government subsidizes the costs associated with the entity providing services
+the public and the government of the country generally perceive the entity to be performing a governmental function .
+for assistance in determining whether an entity is a government official or state - owned enterprise or state - controlled entity , please see the state owned / state controlled entities jive site , or contact confirmstateowned@ %WEBSITE .
+includes companies in which %NUMBER % and more is directly owned by a soe , and , in which the state also owns %NUMBER % or more shares .
+for purposes of this policy , if you have any question as to whether an entity is a state - controlled entities , you should consult with the global compliance enablement at confirmstateowned@ %WEBSITE .
+the record of approval is located at the following link :
+the information below reflects the revision history of the policy %LBR also referred to as " version history " in doc central %RBR .
+note : policy administrators are required to manually populate this section of the policy .
+to locate the revision history , click the edcs / doc central link below .
+then , select " version history " to display the revision history .
+revised the owner of this policy : james hackett
+definitions and related policy notes are updated
+you may participate in political activities on an individual basis with your own money and on your own time .
+you may participate in political activities on an individual basis , with your own money and on your own time .
+cisco is required to properly maintain its books and records in order to accurately and completely reflect the company 's transactions and financial position .
+off - book funds are any funds inappropriately established or retained in a non - cisco account where the use of the funds continues to be directed by cisco employees without proper transparency , authorization , documented terms and conditions , and appropriate accounting treatment on cisco 's books and records in accordance with the company 's policies .
+any national , provincial , regional or local legislative , administrative , or judicial body
+any state funded organizations , such as non - commercial organizations established by the special laws , schools , universities , healthcare facilities , police agencies , military entities , issuers of government permits , approvals or licenses etc . .
+public %LBR quasi - governmental %RBR international organization %LBR such as the united nations , international monetary fund , african union , etc . . %RBR
+the entire cisco workforce , including others acting on behalf of cisco , are required to read , understand , and adhere to this policy .
+in addition , cisco managers are required to enforce the policy and ensure that employees , individuals , and entities for which they are responsible , are aware of , understand , and adhere to the requirements of this policy .
+corruption violates the public 's trust , threatens national and international economic and social development and substantially impedes fair trade .
+if you have any questions , please contact your manager or
+from time to time , it is desirable to invite guests to visit cisco 's facilities or events sponsored by cisco .
+no friends or family members of the invitee are traveling at cisco 's expense , and
+all facilitation payments must be accurately described and recorded in the appropriate accounting books and records as " facilitation payments . "
+while donations to charitable organizations ordinarily are regarded as good corporate citizenship , those made to organizations in which government officials possess a role , such as trustee , cause concerns under international anti - corruption laws .
+authorities have taken the position that a donation made to a charity associated with a government official is considered a benefit for that government official .
+any donation made to a charity associated with a government official must be in accordance with the cisco charitable donations policy .
+political activities %SYMBOL you may participate in political activities on an individual basis , with your own money and on your own time .
+cisco is required to keep books and records that accurately reflect the company 's transactions and the disposition of company assets .
+when you are contacted by legal or the ethics office , you have an obligation to cooperate with investigations into ethical misconduct .
+failure to cooperate and provide honest and truthful answers or information could result in disciplinary action , up to and including termination of employment .
+failure to cooperate and provide honest , truthful information could result in disciplinary action .
+cisco will not tolerate retaliation against anyone who , in good faith , reports a concern or cooperates with a compliance investigation , even when allegations are found to be unsubstantiated .
+managers or other employees who retaliate against any other employee in violation of this policy are subject to disciplinary action , up to and including termination .
+entertainment / hospitality %LBR payment of travel , hotel or restaurant bills , living expenses , or costs of trips or resort stays %RBR
+this also includes obtaining licenses or regulatory approvals , preventing negative government actions , reducing taxes , avoiding duties or custom fees , or blocking a competitor from bidding on business .
+a political candidate or a political party or any officer or employee of a political party .
+any private person acting in an official capacity for or on behalf of any government or public international organization %LBR e . g . , an official advisor to the government or a consultant responsible for making procurement recommendations to a government . %RBR
+this is an agreement %LBR " agreement " %RBR between you and mcafee , llc %LBR " mcafee " , " our " , " we " or " us " %RBR , or depending on where you live or how you obtained the product or service , one of our affiliates listed in section %NUMBER .
+this agreement sets out your rights and the conditions upon which you may use our software and services %LBR " software " or " services " %RBR .
+you should read the document in its entirety , including any linked terms , because all the terms are important and together create this agreement that applies to you .
+please pay particular attention to the binding arbitration provision and class action waiver in section %NUMBER that affects how disputes are resolved .
+by clicking an acceptance button , indicating assent electronically , loading the software or otherwise using the software or services , you agree to the terms and conditions of this agreement .
+if you do not agree to the terms of this agreement , do not install , access or use the software or services .
+if you have accepted multiple versions of the agreement , the most current version that you accepted is the agreement between you and us and supersedes and replaces all prior versions .
+to the extent any translated version of this agreement conflicts with the english version , the english version controls .
+license terms %LBR including restrictions , ownership , changes , termination and privacy %RBR
+payment & support terms %LBR including automatic renewal , cancellation , refunds , support and updates %RBR
+terms specific to certain products and services %LBR including free products %RBR
+general legal terms %LBR including limited warranties , disclaimer of warranties , limitation of liability , licensing entities and local law provisions %RBR
+we are pleased to grant you a personal , non - transferable , nonexclusive term - limited license to install and use any software and services for which you have purchased a subscription for personal use on the number of devices and for the number of users specified in your license entitlement or service entitlement , as applicable , subject to the system requirements %LBR " license " %RBR .
+" license entitlement " means the number and type of devices and users that are permitted to use the software , as specified in transaction documents associated with your purchased subscription , which %LBR depending upon the channel from which you purchased the license %RBR may include : the checkout payment page , a product description page on our website , the email confirmation that we send for the purchase , the package if purchased at a retail store , or another transactional document made available to you %LBR " transaction documents " %RBR .
+if no licensed device count or user count is specified on your transaction documents , the license entitlement is for a single device and user .
+" service entitlement " means the scope and duration of the services you purchased , as specified in transaction documents .
+if no scope or duration is specified in your transaction documents , the service entitlement is for a single device and user for one year .
+" system requirements " means the devices and operating systems that the particular mcafee product will function properly with , as set forth on our website .
+this may include , but is not limited to , obtaining updates or upgrades from time to time in order to continue using the software .
+subject to the terms and conditions of this agreement and subject to registration of the software , we hereby grant to you a non - exclusive , non - transferable right for up to %NUMBER users to use the software %LBR %NUMBER %RBR on the number of personal computers , for which you have purchased subscription licenses %LBR of which a minimum purchase requirement may apply %RBR , and %LBR %NUMBER %RBR on portable devices as set out in section %NUMBER , provided that such use under %LBR %NUMBER %RBR and %LBR %NUMBER %RBR is only for the subscription term purchased by you , solely by users , and solely for internal business operations .
+%LBR for the purpose of this agreement , use of the software means to access , install , download , copy or otherwise benefit from using the software %RBR .
+you acknowledge that the software and all related information are proprietary to us and our suppliers .
+you will be entitled to updates which are made generally available by us for so long as you maintain your subscription .
+we , along with our suppliers and partners , retain ownership of our respective software and all rights related to the software , including all intellectual property rights .
+the only rights we grant you are those rights expressly stated in this agreement .
+also , if you provide us any comments , information , opinions , or suggestions , which we consider " feedback , " you allow us to use your feedback without restriction , for any purpose and without compensation to you .
+your use of the software is limited to devices and operating systems we support and may be affected by the performance and compatibility of your hardware , software and internet access .
+meeting system requirements is your responsibility and you are responsible for the cost of your equipment , which may include obtaining updates or upgrades from time to time in order to continue using the software .
+system requirements are set forth on the product description page %LBR for purposes of this agreement , product description page means either the webpage describing the product and / or the applicable product data sheet %RBR .
+registration is required in order to obtain technical support , in order to claim any included virus removal service session per year of annual subscription per purchased license , and so that any licenses that you purchase in the future will have the same renewal date as your initially purchased licenses .
+unused sessions do not roll - over to the next subscription year .
+it is your obligation to ensure that someone within your organization has access to your registration account and the email address identified in the account profile in order to obtain support from us and to receive the pro - rata rate on additional license purchases described in section %NUMBER .
+if you purchase additional licenses of the software which you registered to your account in the future and you use the email address identified in your account profile for the new purchases , the initial term of such licenses will be automatically reduced so that the renewal date is the same as the renewal date of the software licenses you initially purchased .
+in that event , you will be charged a prorated subscription price based on a calendar day basis for the reduced initial term .
+if you do not register your initial licenses to your account , or you do not use the email associated with the account during checkout , you will receive no pro - rata pricing and the subscription term of such additional licenses will be the term that you purchased .
+if the agreement terminates for any reason or expires , neither you nor any user will be authorized to use or access the software , including any online storage or backup services , and we may cancel and / or close your account at our sole discretion .
+after the termination or expiration date , we will follow our standard policies to delete any of your online stored or backed - up information , text , files , links , images or other materials provided to us %LBR " content " %RBR .
+it is your responsibility to store or backup your content elsewhere before this agreement expires or is terminated .
+we are not responsible for giving you a copy of your content .
+use of software , at any time , is governed by the terms of this agreement .
+the software and services are licensed to you , not sold , and they are protected by u . s . and international laws and treaties .
+you do not have any right to reproduce or distribute the software and services without our permission , and if you do so you may be subject to fines or any other penalties allowed by the civil and criminal laws of the relevant jurisdiction .
+if you have installed the software and services on a mobile device and you transfer ownership of that device to someone else , you must ensure that any software and services are deleted from that device and that the device information is removed from your account with us .
+we have the right to terminate or suspend this agreement , your account , and your access to the software and services if we determine that you have violated this agreement .
+the software and services may contain enforcement technology that limits the size of content storage , bandwidth consumption , or the number of devices on which the software and services may be installed or that allows us to suspend your access to the software and services if you have violated this agreement or if your license has expired or been terminated .
+we , along with our suppliers and partners , retain ownership of our respective software and services and all rights related to the software and services , including all intellectual property rights .
+the only rights we grant you are those rights expressly stated in this agreement .
+also , if you provide us any comments , information , opinions , or suggestions on the software and services %LBR " feedback " %RBR you acknowledge and agree that we may use your feedback without restriction , for any purpose and without compensation to you .
+the software and services may include : %LBR a %RBR free versions of the software , including %LBR i %RBR any features included in a paid subscription for which we no longer charge or which we offer to you at no charge , and %LBR ii %RBR any feature that we give you on a trial , courtesy or evaluation basis or that is labeled as " pre - release , " " limited release , " " beta " or otherwise described as experimental , untested , or not fully functional %LBR " free software " %RBR ; and %LBR b %RBR services that we provide without charge to you as a courtesy , which may be labeled similar to free software and may be experimental , untested or not fully functional %LBR " courtesy services " %RBR .
+the license is effective for the subscription term set forth in your transaction documents %LBR " subscription term " %RBR and each subsequent renewal term , unless terminated in accordance with this agreement .
+if no subscription term is specified in your transaction documents , the default subscription term is one year from the date that the software or services were purchased .
+your subscription renewal of the subscription term constitutes your acceptance of and agreement to the then - current version of the mcafee license agreement .
+the license is effective for as long as the free software is installed or we otherwise make the free software or courtesy services available to you and will remain subject to any limitations in the transaction documents , as applicable .
+for paid subscriptions , you accept changes to this agreement by renewing the subscription , and the updated agreement with the change %LBR s %RBR will be effective upon such renewal of your subscription .
+if you do not agree to the agreement as amended , then you must reject the changes by turning off auto renewal and uninstalling the software and ceasing all use of any software or services at the end of the subscription term .
+for free software and courtesy services , you accept change %LBR s %RBR to this agreement by continuing to use the free software or courtesy services .
+if you reject the updated agreement , your license to the free software or courtesy services is terminated and you must cease all access to and use of the courtesy services or free software and uninstall the free software .
+we may terminate this agreement if you fail to comply with the terms of this agreement .
+you may terminate the license prior to the expiration of the term by permanently erasing the software and services from your devices and canceling your account with us .
+please refer to our refund policy to see if you are eligible for a refund prior to erasing your software and services .
+if this agreement expires or is terminated , %LBR i %RBR you will no longer be authorized to use or access the software and services , including any online storage or backup services , %LBR ii %RBR you must permanently erase the software and services from your devices , and %LBR iii %RBR we may cancel or close your account .
+upon termination or expiration , we will follow our standard policies to delete any of your online stored or backed - up information , text , files , links , images or other materials provided to us %LBR " content " %RBR .
+for more information on how we may collect and process information , please see our privacy notice .
+payment authorization . you agree that we or our authorized partner may charge the credit or debit card account or other payment device you provided for all amounts you owe related to your purchase , including any subscription renewals .
+you agree to notify us promptly of any change in your card account number or expiration date or other payment information . for credit and debit cards , you agree that we may update such information with updates received directly or indirectly from your card issuer and the relevant card network and we may use the updated card information to charge amounts you owe us .
+this will serve as your consent for your card or payment device to be charged or debited .
+you agree that your paid subscription will be automatically renewed .
+you authorize us or our authorized partner to charge your card or payment device on file within %NUMBER - days of your subscription expiration date , at the renewal term subscription price in effect at the time the renewal .
+your subscription is ongoing and will continue until you cancel .
+if you would like additional information or to cancel your subscription or modify your auto - renewal settings , log onto your my account page or contact customer support .
+before your subscription term expires , we will send a notice to the e - mail address listed in your account profile , informing you of the upcoming renewal .
+if , at the time of renewal , your software and services have been renamed , upgraded or replaced by a new offering with reasonably comparable features %LBR " replacement " %RBR , we may , at our discretion , automatically renew your subscription with the replacement for no more than the undiscounted subscription price of the replacement .
+any time after purchasing a subscription , you may turn off automatic renewal by accessing your online account page or contacting customer service .
+if you do not wish to be automatically renewed , you must turn off automatic renewal more than %NUMBER days before your subscription term expires .
+if you do not turn off automatic renewal , your subscription will continue for the renewal term under the agreement in effect at the time of each renewal unless it is canceled by you %LBR or terminated by us pursuant to this agreement %RBR .
+turning off automatic renewal will discontinue any premium features and services that we offer exclusively to subscribers who are enrolled in automatic renewal and have paid for their subscription .
+except as provided by our refund policy , cancelling your subscription or terminating this agreement will not result in a retroactive refund or pro - ration of fees paid based on cancellation date .
+cancelling your subscription or terminating this agreement will stop future recurring fees , and you will have access to the subscribed software and services until the end of the then - current subscription term .
+for more information on obtaining a refund for software and services purchased from mcafee , please see our refund policy .
+you are responsible for any charges incurred with your data - or mobile - service provider in connection with your use of the software or services , including any overage and penalties assessed for exceeding your data or minute allowance , or use of domestic or international short message service .
+not all software and services qualify for technical support .
+consult your transaction document or terms of service , as applicable , for information regarding technical support and additional options .
+our standard - support offerings , policies , and procedures may change from time to time and may vary by country .
+any obligation we may have to support the previous version of the software and services ends when an upgrade , modified or later version , or other update to the software and services %LBR " update " %RBR becomes available .
+for your convenience and to ensure that the software on your devices includes new features that we develop , by agreeing to this agreement you give us permission to install updates and %LBR at your request or with your consent %RBR new software on your devices automatically when available , to the extent that it is possible for us to run such background installations .
+we may also automatically pre - load software , but will not activate such software without your consent .
+any updates or technical support provided for free software is at our sole discretion and may be discontinued at any time .
+from time to time , at our sole discretion , we may elect to discontinue certain software or services or particular features of the software or services .
+" end of support " refers to the date when we no longer provide automatic fixes , updates or technical support for particular software or services .
+if a renewal term for your subscription would expire past the end of support , you will not be able to renew your subscription .
+terms specific to certain products and services
+in addition to this agreement and applicable transaction documents , some services that you purchase from us are subject to and governed by additional terms of service , which are posted on our website .
+security services must be updated to address new threats , to improve performance or efficiency , and for other business reasons .
+you acknowledge and agree that we may modify the features and functionality of the services during the subscription term .
+such modifications will not materially decrease the functionality of the services .
+some devices may not be able to receive the services .
+to receive the services , a high speed internet connection is required and your device must meet the applicable system requirements .
+if you are an adult , parent , or legal guardian , you may use the software or services to track and monitor only your own children , children for whom you are the legal guardian , or others for whom you have legal authorization to track and monitor .
+you are responsible for obtaining authorization from any third party to whom you extend access to multi - user software or services that track and monitor .
+if the software and services that you download or otherwise receive are free software , then this section of the agreement will also apply .
+to the extent that any provision in this section is in conflict with any other term or condition in this agreement , this section will supersede such other term %LBR s %RBR and condition %LBR s %RBR with respect to such free software , but only to the extent necessary to resolve the conflict .
+all free software is provided " as is " , without any warranty %LBR express or implied %RBR , indemnity , maintenance or support , express or implied , subject to any statutory rights that can not be excluded or limited by law .
+you acknowledge that free software may contain bugs , errors and other problems that could cause system or other failures and data loss .
+you acknowledge that we have not promised or guaranteed to you that free software will be announced or made available to anyone in the future , that we have no express or implied obligation to you to announce or introduce free software , and that we are not obligated to introduce a product similar to or compatible with free software or any updates to any free software .
+accordingly , you acknowledge that any use of the free software is entirely at your own risk .
+the mcafee " life of your %LBR device %RBR " subscription can be applied to a single windows pc or android mobile device %LBR " your device " %RBR if included in your purchase of your device , or on no more than three of your devices if you purchased the mcafee " life of your %LBR device %RBR " subscription separately .
+once properly installed onto your device , the mcafee " life of your %LBR device %RBR " subscription will be active for the remainder of your device 's industry - standard useful life , and you are entitled to english - language telephone and web - based technical support during normal business hours for one year , and english - language web - based technical support , as long as the operating system currently installed on your device is not more than two versions older than the most - current version %LBR for example , " windows %NUMBER . x " or " android %NUMBER . x " %RBR , for the industry - standard useful life of your device %LBR industry standard useful life for a pc is %NUMBER - %NUMBER years , or %NUMBER years for a tablet or smartphone %RBR .
+the mcafee " life of your %LBR device %RBR " subscription is not transferable or movable to any other person , pc , or device in any event or under any circumstance .
+if you sell or otherwise transfer your device to another person prior to the end of your device 's useful life , your mcafee " life of your %LBR device %RBR " subscription will void and terminate , and the subsequent owner of your device will not have the right to install , use , or possess the mcafee " life of your %LBR device %RBR " subscription .
+any attempt to transfer , move , or reinstall the mcafee " life of your %LBR device %RBR " subscription on another pc or device , or to install the subscription on more than the original pc or device , or original three pcs or devices , as applicable , will terminate your right to install , use , or possess the mcafee " life of your %LBR device %RBR " subscription .
+in order to stay current and receive support , you must update your mcafee " life of your %LBR device %RBR " software periodically and upgrade to the latest version of the same mcafee product level of software .
+if at any time , you decide to upgrade to a different product other than the mcafee " life of your %LBR device %RBR " subscription , that product upgrade : %LBR %NUMBER %RBR will be subject to payment of that product 's applicable fee ; %LBR %NUMBER %RBR will not be a " life of your %LBR device %RBR " license ; and %LBR %NUMBER %RBR your subscription and license to mcafee " life of your %LBR device %RBR " subscription will automatically terminate without notice or refund of money previously paid .
+virus removal , techmaster services or virus protection pledge .
+if your subscription includes virus removal service , techmaster service or is entitled to our virus protection pledge or a similar services whereby we or one of our partners access your device to attempt removal of malware or perform other specified services , additional terms apply as may be specified in your transaction documents and the terms of service that is available on our website .
+we will make commercially reasonable efforts to perform malware removal services .
+you understand and agree that not all malware can be removed through the services and we do not guarantee that we can remove all malware from your device %LBR s %RBR .
+to the extent permitted by applicable law , we will have no liability for loss of or recovery of data , software , or loss of use of system %LBR s %RBR or networks arising out of these services or any act or omission , including negligence , by us or our representatives .
+if we work with you on any password or other access control issues , we strongly recommend that you reset such password %LBR s %RBR immediately following the completion of the services .
+you agree that you are a legal license holder of the software on your device and your use of the internet is solely at your own risk .
+by electing to receive the services , you confirm that you %LBR i %RBR have full access to your hardware and software for which you are purchasing the service , and %LBR ii %RBR have completed a back - up onto separate media of any software or data on the hardware that may be impacted by the services .
+the virus protection pledge requires active enrollment in our auto - renewal service and is subject to additional terms and restrictions posted on our website .
+you are responsible for the security of your password and for all aspects of keeping your account secure .
+you should keep your password and encryption key for your account secure because without them you may lose access to your data .
+you are solely responsible and liable for any activity that occurs under your account , including by anyone who uses your account .
+if there is any unauthorized use or access to your account , you must let us know immediately .
+we are not responsible for any loss caused by unauthorized use of or access to your account ; however , you may be liable for any losses we or others suffer because of the unauthorized use .
+we do not have access to master passwords and can not recover your encrypted data if you forget the master password for any password management feature or software .
+we offer both free and premium versions of our password management software .
+the free version limits the maximum number of unique accounts %LBR such as a website or application login %RBR that you can store .
+the premium version of the software may be downloaded at no cost during a promotion , however , when the promotional period ends you will not be permitted to add any new unique accounts if you have exceeded the maximum number permitted by the free version .
+if you download any mcafee password management software , that download will be subject to all subscription fees that are published in connection with that download , as well as the terms and conditions of this agreement .
+mcafee webadvisor is software %LBR with a corresponding website %RBR that provides users with information to guide users about certain risks that may be associated with a website .
+the webadvisor software displays color - coded symbols next to links provided by major search engines , and the corresponding websites have dossier pages to provide information on the factors that affect site ratings .
+the ratings are primarily derived using automated methods ; the webadvisor software can not detect or examine every possible aspect of website design , nor can it determine the intent of the site owner .
+we do not control or assume responsibility for the content of the third - party sites , and some of the third - party sites may have content that you find objectionable , inappropriate , or offensive .
+the site ratings are not a guarantee of any particular site 's specific practices or trustworthiness , and in no case do the ratings represent an endorsement by us of the site 's content , subject matter , overall quality , or usefulness .
+we and our partners may , but have no obligation to , monitor and record service sessions , including telephone calls and online sessions for purposes of improving customer service , internal training and internal market research .
+you hereby grant us permission to monitor and record the services and to use or disclose any information as necessary or appropriate to satisfy any law , regulation or other governmental request ; to provide the services to you or other users and to enhance the types of services we may provide to you in the future .
+you also grant us permission to combine your information with that of others in a way that does not identify you or any individual personally to improve the services , for training , for marketing and promotional purposes , and for other business purposes .
+these terms only apply if you have enrolled in , are entitled to , or use our identity protection services from us or one of our trusted partners %LBR these services are sometimes referred to as the " identity protection services " %RBR .
+the identity protection services are only available to residents of the united states who possess a valid social security number .
+while enrolling for the services , we will ask you for the following types of information : %LBR i %RBR contact information %LBR such as name , address , phone number , and e - mail address %RBR ; %LBR ii %RBR identity related information %LBR such as date of birth , driver 's license number and social security number %RBR ; %LBR iii %RBR information to verify your identity and financial information %LBR such as credit card number %RBR .
+this information is required in order to verify your identity , charge you the agreed upon fees for our services , and to fulfill our obligation to provide our services to you , including monitoring your identity and communicating with third parties as necessary to provide such services , such as , for example , identification verification companies , third party service providers , third party data suppliers , consumer reporting agencies , credit bureaus , payment validation companies , law enforcement agencies , or others .
+mcafee 's privacy notice outlines the manner in which we %LBR or others acting on our behalf %RBR collect , use , and share information about you in connection with your use of the identity protection services , and it is your responsibility to review our privacy notice prior to agreeing to this license agreement or before using our services .
+the fair credit reporting act %LBR " fcra " %RBR allows you to obtain from each consumer reporting agency a disclosure of all the information in your consumer file at the time of the request .
+full disclosure of information in your file at a consumer reporting agency must be obtained directly from such consumer reporting agency .
+the consumer reports provided by or requested from mcafee identity protection are not intended to constitute the disclosure of information by a consumer reporting agency as required by the fcra or similar laws .
+under the fcra you are entitled to receive an annual free disclosure of your credit report from each of the national credit reporting agencies .
+you may request your free annual report under the fcra , at %SYMBOL %WEBSITE .
+you are also entitled to receive a free copy of your credit report from a consumer reporting agency if :
+you have been denied or were otherwise notified of an adverse action related to consumer , insurance , employment , or a government granted license or other government granted benefit within the past %NUMBER days based on information in a consumer report provided by such agency .
+you have been denied house / apartment rental or were required to pay a higher deposit than usually required within the past %NUMBER days based on information in a consumer report provided by such agency .
+you certify in writing that you are unemployed and intend to apply for employment during the %NUMBER day period beginning on the date on which you made such certification .
+you certify in writing that you are a recipient of public welfare assistance .
+you certify in writing that you have reason to believe that your file at such consumer reporting agency contains inaccurate information due to fraud .
+in addition , if you reside in the state of colorado , maine , maryland , massachusetts , new jersey , or vermont , you are entitled to receive a free copy of your consumer report once a year and if you reside in the state of georgia , you are entitled to receive a free copy of your consumer report twice a year .
+for illinois residents , consumer reporting agencies are required by law to give you a copy of your consumer record upon request at no charge or for a nominal fee .
+otherwise , a consumer reporting agency may impose a reasonable charge for providing you with a copy of your consumer report .
+the fair consumer reporting act provides that you may dispute inaccurate or incomplete information in your consumer report .
+you are not required to purchase your consumer report from any of the consumer reporting agencies in order to dispute inaccurate or incomplete information in your report or to receive a copy of your report from equifax , experian or transunion , the three national consumer reporting agencies , or from any other consumer reporting agency .
+it may be the policies of equifax , experian and / or transunion to provide a complimentary copy of the consumer report under circumstances other than those described above .
+if you wish to contact equifax , experian or transunion to obtain a copy of your consumer report directly from such agency or if you wish to dispute information contained in an equifax , experian or transunion credit report file , please contact such entities as follows :
+for a full summary of your rights under the fcra , click here .
+additional disclaimers of warranties and limitation of liability .
+below are additional warranties and limitations of liability applicable to our identity protection services :
+no advice or information , whether oral or written , obtained by you from us , or through or from the services , will create any warranty not expressly stated in this agreement .
+the identity protection services are provided on an " as is " and " as available " basis .
+mcafee , llc and its third party service providers and their data providers make no representations or warranties , express or implied , with respect to the services and disclaim any express or implied warranties with respect thereto .
+without limiting the foregoing , mcafee , llc and its third party service providers and their data providers do not guarantee or warrant the accuracy , timeliness , completeness , currentness , merchantability , non - infringement , or fitness for a particular purpose of the identify protection services and will not be liable for any loss or injury arising out of or caused in whole or in part by use of the identity protection services or the data therein .
+we are not a credit repair organization , or similarly regulated organization under other applicable laws , and do not provide credit repair advice .
+our credit monitoring offerings monitor only the credit file associated with the purchasing consumer , and do not monitor , compare or cross - reference the credit file associated with the purchasing consumer to any other credit file %LBR s %RBR maintained by the applicable credit bureau %LBR s %RBR .
+we do not monitor all transactions at all businesses .
+credit scores , reports , and credit monitoring may require an additional verification process and credit services will be withheld until such process is complete .
+a reduced service fee will be charged until you verify your identity .
+the vantage score credit scores are vantage score %NUMBER credit scores based on data from equifax , experian and transunion respectively .
+third parties may use a different vantage score or a different type of credit score to assess your creditworthiness .
+for the mcafee %SYMBOL identity theft protection essential and premium services , credit monitoring by experian and transunion may take several days to begin .
+you represent and warrant to us that you will use identity protection services %LBR and any of the information therein %RBR to protect against or prevent actual fraud , unauthorized transactions , claims or other liabilities , and not for any other purpose .
+we are not responsible for delay or failure to perform due to causes beyond our reasonable control .
+additional terms of license for identity protection services
+you acknowledge that mcafee reserves the right to modify the offerings that constitute the identity protection services subscriptions at any time , as well as the right to modify the pricing for those subscriptions .
+you acknowledge that mcafee reserves the right to discontinue the identity protection services at any time and / or to transfer you to a third party providing similar services at any time .
+a free subscription to identity protection services is valid for one year from the date of sign - up .
+any claim , dispute or controversy of any kind , regardless of the type of claim or legal theory or remedy %LBR " claim " %RBR by either you or us against the other arising from , relating to or in any way concerning the agreement , the software , or any equipment , products , or services you receive from us %LBR or from any advertising for any such products or services %RBR will , at the demand of either party , be resolved by confidential binding arbitration .
+you and we agree that no class action , consolidated action , private attorney general or other representative claims may be pursued in arbitration , nor may such actions be pursued in court .
+by accepting this arbitration agreement , you agree to waive the right to initiate or participate in a class action , representative action , private attorney general action or consolidated arbitration in any matter encompassed by this arbitration provision .
+the party seeking arbitration must first notify the other party of the dispute in writing at least %NUMBER days in advance of initiating arbitration .
+notice should be sent to mcafee , %NUMBER headquarters drive , plano , tx %NUMBER , attention : legal department .
+the notice must include your name , address , and contact information , the facts giving rise to the dispute , and the relief requested .
+you and we will use reasonable efforts to resolve any dispute through informal negotiation within %NUMBER days from the date the notice of dispute is sent .
+after %NUMBER days , you or we may commence arbitration .
+if any dispute is not resolved by informal negotiation , any claim , dispute , or controversy will be , at the demand of either party , conducted exclusively by binding arbitration governed by the federal arbitration act %LBR " faa " %RBR , and not state law .
+you are giving up the right to litigate %LBR or participate in as a party or class member %RBR all disputes in court before a judge or jury .
+instead , all disputes will be resolved on an individual basis before a single , neutral arbitrator and the proceeding will be confidential .
+the arbitrator will be either a lawyer admitted to practice law in his or her jurisdiction and with at least ten years ' experience or a retired or former judge selected in accordance with the rules of the aaa .
+the arbitrator is bound by the terms of this agreement , and the arbitration will be governed by the commercial arbitration rules and supplementary procedures for consumer related disputes of the aaa , as modified by this agreement %LBR the " arbitration rules " %RBR .
+except with respect to any claims or counterclaims seeking less than $ %NUMBER , the arbitrator will issue a reasoned , written decision sufficient to explain the essential findings and conclusions on which the award is based .
+all arbitration proceedings will be conducted in english , and the united states faa will govern the interpretation , enforcement , and proceedings pursuant to the binding arbitration clause in this agreement .
+the award will be confidential and only disclosed as is necessary to obtain judgment or as otherwise required by law .
+you and we further agree that a judgment may be entered upon the award by any court having jurisdiction .
+the arbitration award will determine the rights and obligations between the named parties only , and only in respect to the claims in arbitration , and will not have any bearing on the rights and obligations of any other dispute .
+the party initiating the arbitration will pay the initial filing fee .
+if you file the arbitration and an award is rendered in your favor , we will reimburse your filing fee .
+we will pay the fees and costs for the first day of any hearing .
+all other fees and costs will be allocated in accordance with the arbitration rules .
+however , we will advance or reimburse filing and other fees if the arbitrator rules that you can not afford to pay them or if you ask us and we determine there is a good reason for doing so . each party will bear the expense of their respective attorneys , experts , and witnesses and other expenses , regardless of who prevails , but a party may recover any or all expenses from another party if the arbitrator , applying applicable law , so determines .
+right to resort to provisional remedies preserved .
+nothing herein will be deemed to limit or constrain our right to resort to self - help remedies or to comply with legal process , or to obtain provisional remedies such as injunctive relief , attachment , or garnishment by a court having appropriate jurisdiction ; provided , however , that you or we may elect to arbitrate any dispute related to such provisional remedies .
+in the event of a conflict between the arbitration rules and this arbitration agreement , this arbitration agreement will govern .
+if any portion of this arbitration agreement is deemed invalid or unenforceable , it will not invalidate the other provisions of the arbitration agreement ; provided , however , that %LBR a %RBR if the prohibition on class - wide arbitration is deemed invalid , then this entire arbitration agreement will be null and void ; and %LBR b %RBR if the prohibition on arbitration of representative claims brought in a private attorney general capacity is deemed invalid , then the arbitration agreement will be null and void as to such claims only .
+this arbitration agreement will survive the termination or cancellation of this agreement .
+in the event of a conflict between this arbitration agreement and any other applicable arbitration provision , this arbitration agreement will control .
+if for any reason a claim proceeds in court rather than through arbitration , you and we agree that there will not be a jury trial .
+you and we unconditionally waive any right to trial by jury in any dispute that in any way relates to or arises out of the agreement or from any equipment , products and services you receive from us %LBR or from any advertising for any such products or services %RBR .
+in the event of litigation , this paragraph may be filed to show a written consent to a trial by the court .
+this paragraph in no way invalidates the agreement to arbitrate disputes .
+for european union customers %SYMBOL online dispute resolution service %LBR " odr " %RBR & alternative dispute resolution %LBR " adr " %RBR .
+we are required by law to provide a link from our website to the eu odr platform %WEBSITE
+we are not obligated to use adr should you have a complaint with us .
+if you do have a complaint with us which we can not resolve using our internal complaints handling procedures , we will contact you by letter or email about whether we are prepared to submit to adr .
+you may contact us through our website .
+except as provided in the local law section below , this agreement , the use of the software and services , the relationship of the parties , and any disputes arising out of , concerning , or relating to the agreement , including any disputes between you and us , will be governed by and construed in accordance with the laws of the state of new york , excluding its conflict of law principles , except that the faa governs all provisions relating to arbitration .
+if for any reason , the laws of the state of new york are found not to apply , then , except as provided in the local law section below , this agreement , the use of the software , services , the relationship of the parties , and any disputes arising out of , concerning , or relating to the agreement , including any disputes between you and us , will be governed by and construed in accordance with the laws of the state of delaware , excluding its conflict of law principles , except that the faa governs all provisions relating to arbitration .
+the united nations convention on contracts for the international sale of goods and the uniform computer information transactions act do not apply to the software or services .
+you acknowledge that some security breaches involve attacks on data .
+for example , there are viruses and other malware that : %LBR i %RBR delete or destroy your data %LBR sometimes individual files , but sometimes even an entire disk by corrupting a master boot record or other key element %RBR ; %LBR ii %RBR modify your files %LBR such as parasitic malware that attaches itself to a file and modifies the file to enable its own execution and / or propagation %RBR ; and %LBR iii %RBR encrypt files on your drive %LBR such as ransomware that uses asymmetric encryption %RBR .
+the best way for you to protect yourself from these types of attacks is frequent back - ups of your data to another device or location .
+that way , you have another copy of the data that the attacking software has deleted , modified , or destroyed .
+while we will use commercially reasonable efforts to remove the attacking malware or virus , it is your sole and exclusive responsibility to back - up all data and files on your device so that they can be restored in the event of an attack on your data .
+without such a back - up , it may not be possible to restore the deleted , destroyed , or modified data .
+we will have no liability for loss of or recovery of data , or files or loss of use of systems or networks arising from attacks on data .
+for %NUMBER days after the purchase date %LBR " warranty period " %RBR , for paid versions of the software only , we warrant that the software licensed under this agreement %LBR including updates provided during the warranty period but not for updates provided outside of the warranty period %RBR will perform substantially in accordance with the documentation provided by us in connection with that software at the time of purchase , and that any tangible medium %LBR such as a cd - rom , but excluding devices manufactured by other companies %RBR on which the software is contained and provided to you will be free from defects in materials and workmanship .
+we do not warrant or guarantee that any particular mobile device or computer will be compatible with or function with the software or service , nor do we warrant or accept any liability for the operation of your personal equipment that is used to access the software or service .
+your sole remedy , and our and our suppliers ' entire liability , in case of any breach of this limited warranty is that we will , at our option , refund the price you paid for the license , replace the defective medium that contains the software , re - perform the service , or provide an alternative remedy as required by local consumer law in your jurisdiction .
+these remedies may not be available in some countries to the extent that we are subject to restrictions under applicable export - control laws and regulations .
+if the tangible medium is defective , you must return it at your expense to the place where you bought it and provide a copy of your receipt .
+any replacement medium will be warranted for the remainder of the original warranty period .
+the above warranties are your exclusive warranties .
+they replace all other warranties , representations , terms or conditions , express or implied , including warranties or conditions of merchantability , performance , satisfactory quality , fitness for a particular purpose , title , and non - infringement .
+except for the limited warranty in this section , the software and services are provided " as is " .
+you are responsible for selecting the software and services to achieve your intended results , for installing and using the software or service , and for the results obtained .
+we do not warrant or guarantee the software 's or service 's use or performance .
+we do not warrant or guarantee that the software 's or service 's operation will be failsafe , uninterrupted , or free from errors or defects , or that the software or services will protect against all possible security threats %LBR including intentional misconduct by third parties %RBR , that there will be no malfunctions or other errors in the software or services caused by virus , infection , worm or similar malicious code not introduced or developed by us , or that the software or services will meet your requirements .
+we are not liable for any downtime or service interruption , for any lost or stolen data or systems , or for any other damages arising out of or relating to any actions or intrusions .
+the software and services are not fault - tolerant and is not designed or intended for high - risk activities such as use in hazardous environments requiring failsafe performance , including nuclear - facilities operations , air traffic communication systems , weapons systems , direct life - support machines , or any other application in which the failure of the software or services could lead directly to death , personal injury , or severe physical or property damage .
+we expressly disclaim any express or implied warranty of fitness for high - risk activities .
+under no circumstances are we or our suppliers , licensors or other third - party service providers liable to you for any : %LBR i %RBR indirect , special , incidental , or consequential damages ; %LBR ii %RBR theft of personally identifiable information or cost of procuring substitute software or services , and %LBR iii %RBR damages for loss of profits , loss of goodwill , loss of personnel salaries , work stoppage , computer failure or malfunction , loss of data , or negligence of any kind , or for any other indirect damage or loss .
+in no event will our , our affiliates ' or our suppliers ' , licensors ' or other third - party service providers ' aggregate liability to you for direct damages under this agreement exceed the price you paid for the applicable software , or usd $ %NUMBER %LBR or the equivalent amount in national currency %RBR if you used free software .
+you agree to the limitations of liability in this section and acknowledge that without your agreement to this term , the fee charged for the software would be higher .
+nothing in this agreement limits any rights you may have under existing consumer - protection statutes or other applicable laws that may not be waived by contract in your jurisdiction .
+the software is commercial computer software under dfars section %NUMBER , the defense federal acquisition regulations supplement %LBR codified under chapter %NUMBER in title %NUMBER , code of federal regulations %RBR .
+the accompanying documentation %LBR if any %RBR is commercial - computer - software documentation under far section %NUMBER , the federal acquisition regulations %LBR codified in title %NUMBER of the united states code of federal regulations %RBR .
+any use , modification , reproduction , release , performance , display , or disclosure of the software or services and accompanying documentation by the united states government is governed solely by this agreement and is prohibited except to the extent expressly permitted by this agreement .
+your use of the software or services and its related documentation , including technical data , may not be exported or re - exported in violation of the u . s .
+export administration act , its implementing laws and regulations , the laws and regulations of other u . s . agencies , or the export and import laws of the jurisdiction in which you obtained the software .
+export to a particular individual , entity , or country may be prohibited by law .
+some third - party materials included with the software or services may be subject to other terms and conditions , which are typically found in a " read me " or an " about " file accompanying the software or services .
+those third - party materials may include software source code licensed by third parties under one or more open - source or free - software licenses , including the gnu general public license , which are considered " open source software . " the open source software is licensed under terms and conditions different from this agreement and may , in some cases , conflict with the terms of this agreement and will apply instead of the terms of this agreement .
+if an open source software license requires us to distribute any source code related to the software or services or any modifications to the software or services , we will make the source code available on request .
+we do not waive any provision of this agreement unless we waive it in a signed writing .
+if any part of this agreement is for any reason held to be unenforceable , that part is , to that extent , deemed omitted , and the rest of it remains fully enforceable ; provided however , that the arbitration agreement will not apply to any claims as to which the limitations on class actions or consolidated arbitration are not permitted by applicable law .
+this agreement constitutes the entire agreement between you and us and governs your use of the software and services acquired hereunder .
+this agreement supersedes any prior agreements between you and us in relation to the software and any services , and any other communications , representations , or advertising relating to the software or services .
+the software and services are licensed to you by one of these legal entities :
+mcafee , llc , a delaware limited liability company , with offices located at %NUMBER mission college blvd . , santa clara , california %NUMBER , usa , if the software is downloaded in north america , central america , south america , or the caribbean ;
+mcafee ireland limited , with offices located at building %NUMBER city gate , mahon , cork , ireland if the software is downloaded in europe , the middle east , africa , the pacific rim , or australia ; or
+mcafee co . , ltd . with offices located at shibuya mark city west building %NUMBER - %NUMBER , dougenzaka %NUMBER - chome , shibuya - ku , tokyo %NUMBER - %NUMBER , japan , if the software is downloaded in japan .
+the subsections below contain information regarding the local laws of certain jurisdictions that will apply to this agreement and may supersede certain provisions as referenced herein .
+the benefits to you under the limited warranties in section %NUMBER are in addition to other rights and remedies you may have under a law in relation to the goods or services to which the warranty relates .
+our goods come with guarantees that can not be excluded under schedule %NUMBER of the competition and consumer act %NUMBER %LBR cth %RBR %LBR " australian consumer law " %RBR .
+you are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage .
+you are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure .
+this warranty is made by mcafee ireland limited , with offices located at building %NUMBER city gate , mahon , cork , ireland , but you may call %NUMBER %NUMBER %NUMBER with questions regarding our warranty for australian customers .
+any claims made under this warranty must be sent , at your expense , to the following address :
+for customers located in australia , if a tangible medium on which software was delivered is defective , you must return the defective medium to us at your expense , with a copy of your receipt , within %NUMBER days of discovering the defect .
+we will notify you of receipt within %NUMBER days of receiving it .
+the disclaimers in section %NUMBER do not apply to you to the extent that australian law does not allow the exclusion or limitation of any applicable statutory guarantees , express or implied warranties , conditions , representations or terms .
+in that case , the express or implied warranties are limited to the maximum extent permitted by applicable law .
+the limitations on liability set forth in section %NUMBER do not apply to consumers in australia .
+nothing in this agreement limits any rights you may have under existing consumer - protection statutes or other applicable laws , including australian consumer law , that may not be waived by contract in your jurisdiction .
+if you acquired the software or services in canada , unless expressly prohibited by local law , then this agreement , the use of the software and services , the relationship of the parties , and any disputes arising out of , concerning , or relating to the agreement , including any disputes between you and us , will be governed by and construed in accordance with the laws in force in the province of ontario , canada .
+if you acquired the software or services in japan , then this agreement , the use of the software and services , the relationship of the parties , and any disputes arising out of , concerning , or relating to the agreement , including any disputes between you and us , will be governed by and construed in accordance with japanese law without regard to its choice - of - law rules .
+for customers in the netherlands , any automatic renewal of your original subscription will be for an indefinite term , billed in accordance with the terms of your subscription .
+you may terminate your renewed subscription any time after renewal by contacting customer service and providing at least %NUMBER days ' notice of your intent to terminate and we will provide a prorated refund in accordance with local law .
+if you do not want your subscription to renew automatically you must turn off auto - renewal in your account settings %NUMBER days before the expiration of your initial subscription .
+for your convenience and to ensure that the software on your devices includes new features that we develop , by agreeing to this agreement you give us permission to install updates and %LBR at your request or with your consent %RBR new software on your devices automatically when available , to the extent that it is possible for us to run such background installations .
+for your convenience and to ensure that the software on your devices includes new features that we develop , by agreeing to this agreement you give us permission to install updates and %LBR at your request or with your consent %RBR new software on your devices automatically when available , to the extent that it is possible for us to run such background installations .
+after the termination or expiration date , we will follow our standard policies to delete any of your online stored or backed - up information , text , files , links , images or other materials provided to us %LBR " content " %RBR .
+after the termination or expiration date , we will follow our standard policies to delete any of your online stored or backed - up information , text , files , links , images or other materials provided to us %LBR " content " %RBR .
+all free software is provided as is , without any warranty %LBR express or implied %RBR , indemnity , maintenance or support , express or implied , subject to any statutory rights that can not be excluded or limited by law .
+all arbitration proceedings shall be conducted in english , and the united states faa shall govern the interpretation , enforcement , and proceedings pursuant to the binding arbitration clause in this agreement .
+also , if you provide us any comments , information , opinions , or suggestions on the software and services %LBR " feedback " %RBR you acknowledge and agree that we may use your feedback without restriction , for any purpose and without compensation to you .
+any attempt to transfer , move , or reinstall the mcafee " life of your %LBR device %RBR " subscription on another pc or device , or to install the subscription on more than the original pc or device , or original three pcs or devices , as applicable , will terminate your right to install , use , or possess the mcafee " life of your %LBR device %RBR " subscription .
+any obligation we may have to support the previous version of the software ends when an upgrade , modified or later version , or other update to the software %LBR " update " %RBR becomes available .
+any use , modification , reproduction , release , performance , display , or disclosure of the software or service and accompanying documentation by the united states government is governed solely by this agreement and is prohibited except to the extent expressly permitted by this agreement .
+by accepting this arbitration agreement , you agree to waive the right to initiate or participate in a class action , representative action , private attorney general action or consolidated arbitration in any matter encompassed by this arbitration provision .
+except for the limited warranty in this section , the software and service is provided as is .
+except as provided by our refund policy , cancelling your subscription or terminating this agreement will not result in a retroactive refund or pro - ration of fees paid based on cancellation date .
+except with respect to any claims or counterclaims seeking less than $ %NUMBER , the arbitrator shall issue a reasoned , written decision sufficient to explain the essential findings and conclusions on which the award is based .
+export administration act , its implementing laws and regulations , the laws and regulations of other u . s . agencies , or the export and import laws of the jurisdiction in which you obtained the software .
+for european union customers %SYMBOL online dispute resolution service %LBR " odr " %RBR & alternative dispute resolution %LBR " adr " %RBR .
+for free software and courtesy services , you accept change %LBR s %RBR to this agreement by continuing to use the free software or courtesy service after the notice described in this section .
+for customers located in australia , if a tangible medium on which software was delivered is defective , you must return the defective medium to us at your expense , with a copy of your receipt , within %NUMBER days of discovering the defect .
+for example , there are viruses and other malware that : %LBR i %RBR delete or destroy your data %LBR sometimes individual files , but sometimes even an entire disk by corrupting a master boot record or other key element %RBR ; %LBR ii %RBR modify your files %LBR such as parasitic malware that attaches itself to a file and modifies the file to enable its own execution and / or propagation %RBR ; and %LBR iii %RBR encrypt files on your drive %LBR such as ransomware that uses asymmetric encryption %RBR .
+for more information on how we may collect and process information , please see our privacy notice .
+privacy %SYMBOL for more information on how we may collect and process information , please see our privacy notice .
+for more information on obtaining a refund for software and services purchased from mcafee , please see our refund policy .
+waiver of jury trial : if for any reason a claim proceeds in court rather than through arbitration , you and we agree that there will not be a jury trial .
+in no event will our , our affiliates ' or our suppliers ' , licensors ' or other third - party service providers ' aggregate liability to you for direct damages under this agreement exceed the price you paid for the applicable software , or us $ %NUMBER %LBR or the equivalent amount in national currency %RBR if you used free software .
+in that case , the express or implied warranties are limited to the maximum extent permitted by applicable law .
+if any part of this agreement is for any reason held to be unenforceable , that part is , to that extent , deemed omitted , and the rest of it remains fully enforceable ; provided however , that the arbitration agreement will not apply to any claims as to which the limitations on class actions or consolidated arbitration are not permitted by applicable law .
+if any portion of this arbitration agreement is deemed invalid or unenforceable , it shall not invalidate the other provisions of the arbitration agreement ; provided , however , that %LBR a %RBR if the prohibition on classwide arbitration is deemed invalid , then this entire arbitration agreement shall be null and void ; and %LBR b %RBR if the prohibition on arbitration of representative claims brought in a private attorney general capacity is deemed invalid , then the arbitration agreement shall be null and void as to such claims only .
+if at any time , you decide to upgrade to a different product other than the mcafee " life of your %LBR device %RBR " subscription , that product upgrade : %LBR %NUMBER %RBR will be subject to payment of that product 's applicable fee ; %LBR %NUMBER %RBR will not be a " life of your %LBR device %RBR " license ; and %LBR %NUMBER %RBR your subscription and license to mcafee " life of your %LBR device %RBR " subscription will automatically terminate without notice or refund of money previously paid .
+if no licensed device count and / or user count is specified on any of the foregoing , the license entitlement is one device and one user .
+if the tangible medium is defective , you must return it at your expense to the place where you bought it and provide a copy of your receipt .
+if there is any unauthorized use or access to your account , you must let us know immediately .
+if we work with you on any password or other access control issues , we strongly recommend that you reset such passwords %LBR s %RBR immediately following the completion of the services .
+if you acquired the software or services in canada , unless expressly prohibited by local law , then this agreement , the use of the software and services , the relationship of the parties , and any disputes arising out of , concerning , or relating to the agreement , including any disputes between you and us , will be governed by and construed in accordance with the laws in force in the province of ontario , canada .
+if you acquired the software or services in the european union , iceland , norway , or switzerland , then national law of the country where you downloaded the software applies .
+if you do not agree to the agreement as amended , then you must reject the changes by turning off auto renewal and uninstalling the software and ceasing all use of any service at the end of the subscription term .
+if you do not agree to the terms of this agreement , do not install , access or use the software or services .
+if you have installed the software on a mobile device and you transfer ownership of that device to someone else , you must ensure that any software is deleted from that device and that the device information is removed from your account with us .
+for small business licenses only , if you purchase additional licenses of the software which you registered to your account in the future and you use the email address identified in your account profile for the new purchases , the initial term of such licenses will be automatically reduced so that the renewal date is the same as the renewal date of the software licenses you initially purchased .
+if you sell or otherwise transfer your device to another person prior to the end of your device 's useful life , your mcafee " life of your %LBR device %RBR " subscription will void and terminate , and the subsequent owner of your device will not have the right to install , use , or possess the mcafee " life of your %LBR device %RBR " subscription .
+if you sell or otherwise transfer your device to another person prior to the end of your device 's useful life , your mcafee " life of your %LBR device %RBR " subscription will void and terminate , and the subsequent owner of your device will not have the right to install , use , or possess the mcafee " life of your %LBR device %RBR " subscription .
+if your software and services qualify for technical support and you have a current paid subscription , you will receive technical support in accordance with our current standard - support offerings .
+in addition to this agreement and applicable transaction documents , some services that you purchase from us are subject to and governed by additional terms of service , which are posted on our website .
+you will be charged a prorated subscription price based on a calendar day basis for the reduced initial term .
+instead , all disputes will be resolved on an individual basis before a single , neutral arbitrator and the proceeding will be confidential .
+mcafee co . , ltd . with offices located at shibuya mark city west building %NUMBER - %NUMBER , dougenzaka %NUMBER - chome , shibuya - ku , tokyo %NUMBER - %NUMBER , japan , if the software is downloaded in japan .
+nothing in this agreement limits any rights you may have under existing consumer - protection statutes or other applicable laws , including australian consumer law , that may not be waived by contract in your jurisdiction .
+nothing in this agreement limits any rights you may have under existing consumer - protection statutes or other applicable laws that may not be waived by contract in your jurisdiction .
+notice should be sent to mcafee , %NUMBER headquarters drive , plano , tx %NUMBER , attention : legal department .
+once properly installed onto your device , the mcafee " life of your %LBR device %RBR " subscription will be active for the remainder of your device 's useful life , and you are entitled to english - language telephone and web - based technical support during normal business hours for one year , and english - language web - based technical support , as long as the operating system currently installed on your device is not more than two versions older than the most - current version %LBR for example , " windows %NUMBER . x " or " android %NUMBER . x " , for the industry - standard useful life of your device %LBR industry standard useful life for a pc is %NUMBER - %NUMBER years , or %NUMBER years for a tablet or smartphone %RBR .
+once properly installed onto your device , the mcafee " life of your %LBR device %RBR " subscription will be active for the remainder of your device 's useful life , and you are entitled to english - language telephone and web - based technical support during normal business hours for one year , and english - language web - based technical support , as long as the operating system currently installed on your device is not more than two versions older than the most - current version %LBR for example , " windows %NUMBER . x " or " android %NUMBER . x " , for the industry - standard useful life of your device %LBR industry standard useful life for a pc is %NUMBER - %NUMBER years , or %NUMBER years for a tablet or smartphone %RBR .
+our goods come with guarantees that can not be excluded under schedule %NUMBER of the competition and consumer act %NUMBER %LBR cth %RBR %LBR " australian consumer law " %RBR .
+our standard - support offerings , policies , and procedures may change from time to time and may vary by country .
+please pay particular attention to the binding arbitration provision and class action waiver in section %NUMBER that affects how disputes are resolve
+please refer to our refund policy to see if you are eligible for a refund prior to erasing your software and services .
+some devices may not be able to receive the services .
+license to use - subject to the terms and conditions of this agreement and subject to registration of the software , we hereby grant to you a non - exclusive , non - transferable right to use the software %LBR %NUMBER %RBR on the number of personal computers , for which you have purchased subscription licenses %LBR of which a minimum purchase requirement may apply %RBR , and %LBR %NUMBER %RBR on the licensed personal computer user 's portable devices as set out in section %NUMBER , provided that such use under %LBR %NUMBER %RBR and %LBR %NUMBER %RBR is only for the subscription term purchased by you , and solely for internal business operations .
+such modifications shall not materially decrease the functionality of the service .
+the site ratings are not a guarantee of any particular site 's specific practices or trustworthiness , and in no case do the ratings represent an endorsement by us of the site 's content , subject matter , overall quality , or usefulness .
+the site ratings are not a guarantee of any particular site 's specific practices or trustworthiness , and in no case do the ratings represent an endorsement by us of the site 's content , subject matter , overall quality , or usefulness .
+they replace all other warranties , representations , terms or conditions , express or implied , including warranties or conditions of merchantability , performance , satisfactory quality , fitness for a particular purpose , title , and non - infringement .
+terms specific to certain products and services
+that way , you have another copy of the data that the attacking software has deleted , modified , or destroyed .
+the fair credit reporting act %LBR " fcra " %RBR allows you to obtain from each consumer reporting agency a disclosure of all the information in your consumer file at the time of the request .
+the mcafee " life of your %LBR device %RBR " subscription is not transferable or movable to any other person , pc , or device in any event or under any circumstance .
+the software and services are licensed to you , not sold , and they are protected by u . s . and international laws and treaties .
+the software and services are not fault - tolerant and not designed or intended for high - risk activities such as use in hazardous environments requiring failsafe performance , including nuclear - facilities operations , air traffic communication systems , weapons systems , direct life - support machines , or any other application in which the failure of the software or services could lead directly to death , personal injury , or severe physical or property damage .
+the software and services may contain enforcement technology that limits the size of content storage , bandwidth consumption , or the number of devices on which the software and services may be installed or that allows us to suspend your access to the software and services if you have violated this agreement or if your license has expired or been terminated .
+the software and services may include : %LBR a %RBR free versions of the software , including %LBR i %RBR any features included in a paid subscription for which we no longer charge or which we offer to you at no charge , and %LBR ii %RBR any feature that we give you on a trial , courtesy or evaluation basis or that is labeled as " pre - release , " " limited release , " " beta " or otherwise described as experimental , untested , or not fully functional %LBR " free software " %RBR ; and %LBR b %RBR services that we provide without charge to you as a courtesy , which may be labeled similar to free software and may be experimental , untested or not fully functional %LBR " courtesy services " %RBR .
+the software is commercial computer software under dfars section %NUMBER , the defense federal acquisition regulations supplement %LBR codified under chapter %NUMBER in title %NUMBER , code of federal regulations %RBR .
+the united nations convention on contracts for the international sale of goods and the uniform computer information transactions act do not apply to the software or services .
+the software displays color - coded symbols next to links provided by major search engines , and the corresponding websites have dossier pages to provide information on the factors that affect site ratings .
+the software displays color - coded symbols next to links provided by major search engines , and the corresponding websites have dossier pages to provide information on the factors that affect site ratings .
+the accompanying documentation %LBR if any %RBR is commercial - computer - software documentation under far section %NUMBER , the federal acquisition regulations %LBR codified in title %NUMBER of the united states code of federal regulations %RBR .
+the arbitrator is bound by the terms of this agreement , and the arbitration shall be governed by the commercial arbitration rules and supplementary procedures for consumer related disputes of the aaa , as modified by this agreement %LBR the " arbitration rules " %RBR .
+the arbitrator will be either a lawyer admitted to practice law in his or her jurisdiction and with at least ten years ' experience or a retired or former judge selected in accordance with the rules of the aaa .
+the arbitrator will be either a lawyer admitted to practice law in his or her jurisdiction and with at least ten years ' experience or a retired or former judge selected in accordance with the rules of the aaa .
+the award shall be confidential and only disclosed as is necessary to obtain judgment or as otherwise required by law .
+the benefits to you under the limited warranties in section %NUMBER of this agreement are in addition to other rights and remedies of you may have under a law in relation to the goods or services to which the warranty relates .
+the best way for you to protect yourself from these types of attacks is frequent back - ups of your data to another device / location .
+the only rights we grant you are those rights expressly stated in this agreement .
+the ratings are primarily derived using automated methods ; the software can not detect or examine every possible aspect of website design , nor can it determine the intent of the site owner .
+the ratings are primarily derived using automated methods ; the software can not detect or examine every possible aspect of website design , nor can it determine the intent of the site owner .
+these remedies may not be available in some countries to the extent that we are subject to restrictions under applicable export - control laws and regulations .
+these terms only apply if you have enrolled in , are entitled to , or use our identity protection services from us or one of our trusted partners %LBR these services are sometimes referred to as the " identity protection services " %RBR .
+this is an agreement %LBR " agreement " %RBR between you and mcafee , llc %LBR " mcafee " , " our " , " we " or " us " %RBR , or depending on where you live or how you obtained the product or service , one of our affiliates listed in section %NUMBER .
+this license is revocable by us as provided in this agreement .
+this warranty is made by mcafee ireland limited , with offices located at building %NUMBER city gate , mahon , cork , ireland , but you may call %NUMBER %NUMBER %NUMBER with questions regarding our warranty for australian customers .
+to the extent permitted by applicable law , we will have no liability for loss of or recovery of data , software , or loss of use of systems %LBR s %RBR or networks arising out of the services or any act or omission , including negligence , by us and / or our representatives .
+to the extent that any provision in this section is in conflict with any other term or condition in this agreement , this section shall supersede such other term %LBR s %RBR and condition %LBR s %RBR with respect to such free software , but only to the extent necessary to resolve the conflict .
+after the termination or expiration date , we will follow our standard policies to delete any of your online stored or backed - up information , text , files , links , images or other materials provided to us %LBR " content " %RBR .
+we are not liable for any downtime or service interruption , for any lost or stolen data or systems , or for any other damages arising out of or relating to any actions or intrusions .
+we are not liable for any downtime or service interruption , for any lost or stolen data or systems , or for any other damages arising out of or relating to any actions or intrusions .
+we do not have access to master passwords and can not recover your encrypted data if you forget the master password for any password management feature or product .
+we do not have access to master passwords and can not recover your encrypted data if you forget the master password for any password management feature or product .
+we are not responsible for any loss caused by unauthorized use of or access to your account ; however , you may be liable for any losses we or others suffer because of the unauthorized use .
+we are pleased to grant you a personal , non - transferable , nonexclusive term - limited license to install and use any software and services for which you have purchased a subscription for personal use on the number of devices and for the number of users specified in your license entitlement or service entitlement , as applicable , subject to the system requirements %LBR " license " %RBR .
+%SYMBOL we are pleased to grant you a personal , non - transferable , nonexclusive term - limited license to install and use any software and services for which you have purchased a subscription for personal use on the number of devices and for the number of users specified in your license entitlement or service entitlement , as applicable , subject to the system requirements %LBR " license " %RBR .
+we are required by law to provide a link from our website to the eu odr platform %WEBSITE
+we expressly disclaim any express or implied warranty of fitness for high - risk activities .
+we have the right to terminate or suspend this agreement , your account , and / or your access to the software if , in our sole discretion , we determine that you have violated this agreement .
+we will have no liability for loss of or recovery of data , or files or loss of use of systems or networks arising from attacks on data .
+we , along with our suppliers and partners , retain ownership of our respective software and services and all rights related to the software and services , including all intellectual property rights .
+you are responsible for selecting the software to achieve your intended results , for installing and using the software or service , and for the results obtained .
+you acknowledge that we may modify the features and functionality of the service during the subscription period .
+you acknowledge that free software may contain bugs , errors and other problems that could cause system or other failures and data loss .
+you acknowledge that we have not promised or guaranteed to you that free software will be announced or made available to anyone in the future , that we have no express or implied obligation to you to announce or introduce free software , and that we are not obligated to introduce a product similar to or compatible with free software or any updates to any free software .
+you acknowledge that we have not promised or guaranteed to you that free software will be announced or made available to anyone in the future , that we have no express or implied obligation to you to announce or introduce free software , and that we are not obligated to introduce a product similar to or compatible with free software or any updates to any free software .
+you agree that you are a legal license holder of the software on your device and your use of the internet is solely at your own risk .
+you also grant us permission to combine your information with that of others in a way that does not identify you or any individual personally to improve the services , for training , for marketing and promotional purposes , and for other business purposes .
+you and we will attempt to resolve any dispute through informal negotiation within %NUMBER days from the date the notice of dispute is sent .
+you are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage .
+you are responsible for obtaining authorization from any third party to whom you extend access to multi - user software or services that track and monitor .
+you are responsible for obtaining authorization from any third party to whom you extend access to multi - user software or services that track and monitor .
+you are solely responsible and liable for any activity that occurs under your account , including by anyone who uses your account .
+you certify in writing that you have reason to believe that your file at such consumer reporting agency contains inaccurate information due to fraud .
+you do not have any right to reproduce or distribute the software or service without our permission , and if you do so you may be subject to fines or any other penalties allowed by the civil and criminal laws of the relevant jurisdiction .
+you are also entitled to receive a free copy of your credit report from a consumer reporting agency if : you have been denied or were otherwise notified of an adverse action related to consumer , insurance , employment , or a government granted license or other government granted benefit within the past %NUMBER days based on information in a consumer report provided by such agency .
+you hereby grant us permission to monitor and record the services and to use or disclose any information as necessary or appropriate to satisfy any law , regulation or other governmental request ; to provide the services to you or other users and to enhance the types of services we may provide to you in the future .
+you may request your free annual report under the fcra , at %WEBSITE .
+you may request your free annual report under the fcra , at %WEBSITE .
+%NUMBER . registration - you must register each license to the software that you purchase .
+registration %SYMBOL you must register each license to the software that you purchase .
+you should keep your password and / or encryption key for your account secure because without them you may lose access to your data .
+you understand and agree that not all viruses can be removed through the services and we do not guarantee that we can remove all viruses from your device %LBR s %RBR .
+your use of the software or service and its related documentation , including technical data , may not be exported or re - exported in violation of the u . s .
+" license entitlement " means the number and type of devices and users that are permitted to use the software , as specified on transaction documents associated with your purchased subscription , which %LBR depending upon the channel from which you purchased the license %RBR may include : the checkout payment page , a product description page on our website , the email confirmation that we send for the purchase , the package if purchased at a retail store , or another transactional document made available to you .
+" system requirements " means the devices and operating systems that the particular mcafee product will function properly with , as set forth on our website .
+this microsoft online service trial agreement %LBR this " agreement " %RBR applies when :
+an individual signs up for any trial service %LBR as defined below %RBR with an email address that has been provided by an organization by virtue of the individual 's relationship with the organization ; or
+an individual becomes a qualified administrator by proving ownership of the internet domain associated with the email address an individual entering into this agreement used to sign up for any trial service %LBR " domain " %RBR , as described in section %NUMBER .
+this agreement is a contract between microsoft corporation %LBR or based on where you live %LBR or , if an entity , where your principal place of business or primary location is %RBR one of its affiliates %RBR and customer .
+except as specified in section %NUMBER , " customer " means either the entity that accepts this agreement through an admin %LBR as defined in section %NUMBER %RBR , or an individual user %LBR not an admin %RBR who accepts this agreement as an individual .
+as used in this agreement , references to " personnel " or " customer 's personnel " are applicable only if an entity has accepted this agreement through an admin ; if customer is an individual user , customer has no personnel .
+this agreement consists of and incorporates by reference part i %LBR general terms %RBR and part ii %LBR trial service specific terms %RBR , as applicable to a given trial service .
+in the event of a conflict between part i and part ii , the trial service specific terms will control as to the applicable trial service .
+we refer to any trial of a commercially - available service that links to this agreement as the " trial service . " you may use the trial service solely in accordance with this agreement .
+by using or accessing any trial service , or by agreeing to this agreement where the option is made available to customer in the user interface , customer agrees to abide by this agreement without modification by customer .
+please read this agreement before using or accessing any trial service .
+if customer does not agree , or is ineligible to enter into this agreement %LBR in accordance with eligibility criteria , if any , specified in the trial service specific terms %RBR , customer may not use the trial service .
+if customer lives %LBR or is an entity with its principal place of business or primary location %RBR in the united states , please read the binding arbitration clause and class action waiver in section %NUMBER . it affects how disputes are resolved .
+these general terms apply to all trial services , except where modified by the trial service specific terms .
+if there is a question about whether or not an individual is eligible , microsoft retains the right to determine eligibility in its sole discretion .
+if customer 's policies prevent customer from complying with this agreement , customer is ineligible to access or use the trial service .
+organization may control customer 's user account and data .
+the trial service is intended for use by organizations that share the same domain .
+when customer uses an email address provided by an organization to access any trial service , the organization , as the owner of the domain associated with customer 's email address , may %LBR as of customer 's first access or in the future %RBR :
+%LBR a %RBR control and administer customer 's user account for the trial service , including modifying or terminating customer 's access to any trial service ; and %LBR b %RBR access and process customer data , including the content of customer 's communications and files .
+customer acknowledges and understands the trial service may be managed by an admin %LBR defined in section %NUMBER %RBR , and , as such , his or her employer controls and administers the user accounts %LBR defined in section %NUMBER %RBR for any trial service and his or her employer 's policies will also apply to access and use of any trial service , but only to the extent they do not conflict with this agreement .
+from time to time , customer may be asked to confirm the validity of customer 's email account , and if that email account is not confirmed as valid , customer 's account for the trial service %LBR " user account " %RBR will be removed , and microsoft may delete information or customer data %LBR as defined in section %NUMBER %RBR associated with customer 's user account , or otherwise disable customer 's access to such information or customer data .
+microsoft is under no obligation to retain or return customer data to customer after customer 's user account has been removed .
+in this section %NUMBER , " customer " refers only to an admin %LBR as defined below %RBR .
+to be eligible to be an administrator of the organization for any trial service %LBR " admin " %RBR , customer must verify :
+%LBR a %RBR customer 's authorization to act on behalf of the organization that owns the domain associated with the email and %LBR b %RBR customer 's administrative control over that domain sufficient to manage the domain records .
+customer may also be required to meet other eligibility criteria set by microsoft .
+if there is a question about whether or not customer is eligible to be an admin , microsoft will determine eligibility in its sole discretion .
+the admin controls use of that domain for all microsoft online services , not only the trial service .
+if customer qualifies as an admin , customer will obtain control of all user accounts associated with customer 's domain , including domain management , and capability to terminate a user 's access to any trial service and to delete a user 's customer data .
+customer acknowledges that customer 's users may have signed up for various trial service subscriptions , as individuals .
+until customer replaces these individual subscriptions with subscriptions for the organization , this agreement will continue to apply to :
+%LBR a %RBR customer 's use of the trial service as the admin ; and %LBR b %RBR such users ' use of the trial service as individuals .
+it is customer 's responsibility as the admin to inform customer 's users of the terms governing their further use of any trial service .
+microsoft will continue to allow customer 's users to sign up for any trial service in accordance with the azure active directory settings for customer 's tenant .
+microsoft grants customer the limited , non - transferable , non - exclusive , revocable right under microsoft 's copyrights to access and use the applicable trial service , solely during the applicable trial period %LBR defined in the trial service specific terms %RBR only :
+%LBR a %RBR to test or evaluate it , using demonstration data ; and %LBR b %RBR for customer 's limited internal use in a " live " operating or commercial production environment .
+all such access or use is subject to customer %LBR and its personnel %RBR complying with this agreement , any policies and procedures microsoft designates , and any limitations , prohibitions , and restrictions on the trial service specified in this agreement or any trial service documentation .
+minimum system requirements or other factors may affect the ability to use any trial service .
+customer may not use a trial service :
+%LBR a %RBR in a way prohibited by law , regulation , governmental order , or decree ; %LBR b %RBR to violate the rights of others ; %LBR c %RBR to try to gain unauthorized access to or disrupt any service , device , data , account , or network ; %LBR d %RBR to spam or distribute malware ; %LBR e %RBR in a way that could harm any trial service or impair anyone else 's use of it ; or %LBR f %RBR in any application or situation where failure of any trial service could lead to the death or serious bodily injury of any person , or to severe physical or environmental damage .
+violation of the terms in this section may result in suspension of the trial service in accordance with section %NUMBER .
+microsoft will suspend the applicable trial service only to the extent reasonably necessary , as determined by microsoft in its sole discretion .
+customer must comply with , and may not work around , any technical limitations in a trial service that only allow customer to use it in certain ways .
+customer is responsible for maintaining the confidentiality of any user account .
+customer must promptly notify microsoft about any possible misuse of the user accounts or authentication credentials of customer or its personnel or any security incident related to any trial service .
+trial services are offered solely on a short - term , trial basis to give customer and customer 's personnel an opportunity to test and evaluate whether the particular trial service is suitable for the customer 's needs .
+the length of the period during which customer may conduct such testing and evaluation is specified for each trial service in the trial service specific terms .
+after that period ends , customer 's rights to access or use that particular trial service will end , or may otherwise be modified , as specified in the applicable trial service specific terms .
+during and for three months after customer 's right to access or use any trial service ends , customer will keep all usual and proper records relating to each trial service and customer 's use of it under this agreement .
+microsoft may request that customer conduct an internal audit of all trial services in use throughout its organization .
+by requesting an audit , microsoft does not waive its rights to enforce this agreement or to protect its intellectual property by any other means permitted by law .
+if verification or self - audit reveals any unlicensed use , customer must promptly terminate such use or order sufficient commercial licenses to cover customer 's past and present use .
+if material unlicensed use is found , customer must reimburse microsoft for its costs incurred in verification and acquire the necessary commercial licenses at retail license cost within %NUMBER days .
+the trial service may include links to third party sites .
+microsoft does not control such sites , and microsoft is not responsible for the content of any linked site , any links contained in a linked site , or any changes or updates to such linked sites .
+microsoft is not responsible for webcasting or any other form of transmission received from any linked site .
+microsoft is providing these links to you , if at all , only as a convenience , and the inclusion of any link does not imply endorsement by microsoft of the site .
+linked sites are subject to the terms and privacy statement of the third - party provider .
+the trial service or the software %LBR defined in section %NUMBER %RBR may contain third - party components .
+unless otherwise disclosed in the trial service or software , microsoft , not the third party , licenses these components to customer under microsoft 's license terms and notices .
+any third - party scripts or code , however , that are linked to or referenced from the trial service , are licensed to customer by the third parties that own such code , not by microsoft .
+the trial service or any software may periodically check for updates , and %LBR as applicable %RBR download and install them for customer .
+customer may obtain updates only from microsoft or authorized sources .
+microsoft may need to apply updates to customer 's system .
+customer agrees to receive these automatic updates without any additional notice .
+updates may not include or support all existing features or functionalities of any trial service or peripheral devices and may result in deletion of customer data .
+microsoft may , when issuing any update , discontinue any feature or function , in whole or in part .
+this agreement %LBR as it may be updated periodically , with prospective effect %RBR will apply to updates unless other terms accompany them , in which case , those other terms apply .
+" update " means any correction , modification , cumulative update , enhancement , hot fix , bug fix , patch , service pack , addition , minor version release , and other revision to the trial service or software that microsoft makes generally available and that does not incorporate major new functionality .
+to the extent applicable law requires microsoft to obtain customer 's consent before sending customer marketing communications %LBR including email , telephone , or voice over ip %RBR related to any trial service , customer acknowledges that , by registering for , activating , or using a trial service , customer has affirmatively given consent to receive marketing communications %LBR including email , telephone , or voice over ip %RBR from microsoft or its affiliates or third - party service providers related to each trial service or its successors , if any .
+if customer does not consent to receive these related marketing communications , customer may not access or use any trial service .
+customer and its personnel may access or use this trial service only after it has accepted the terms and conditions of this agreement and obtained applicable microsoft user credentials %LBR " microsoft id " %RBR .
+the trial service uses customer 's and its personnel 's microsoft ids for authentication purposes only .
+each of customer 's personnel may need a separate microsoft id .
+the microsoft id is subject to a separate agreement between microsoft and customer , or between microsoft and each of customer 's personnel , as applicable .
+this agreement will neither merge nor supersede any such separate agreement .
+customer will , and will instruct its personnel to , keep its and their microsoft ids confidential .
+customer is solely liable for any activity that may take place under its user account or using its , or any of its personnel 's , microsoft ids .
+microsoft will not be liable for any loss resulting from an unauthorized person using the microsoft ids or user accounts .
+from time to time , microsoft may change or amend this agreement , solely with prospective effect .
+microsoft will notify customer of any such change or amendment , either through the applicable trial service 's user interface , in an email message , or through other reasonable means .
+if customer does not agree to such a change , customer must stop using at least the specific trial service affected by the change , and the change will not apply to customer .
+by continuing to access , use , or receive any of the affected trial services after microsoft notifies customer in the manner described above , customer consents to the changed or amended terms .
+the trial service may evolve over time , and microsoft may change them at any time without notice to customer .
+from time to time microsoft may stop providing portions of a trial service .
+microsoft may do so , for example , if it is no longer feasible or practical for microsoft to provide a trial service , the technology changes , market feedback indicates a change is needed , microsoft 's agreements with third parties no longer permit microsoft to make their material available , or external issues arise that make it imprudent or impractical to continue to provide a trial service .
+microsoft may offer features , data centers , and services , each of which in preview , beta , or pre - release form or state , as or as part of the trial service %LBR " previews " %RBR .
+previews may employ lesser or different privacy and security measures than those typically present in a microsoft online service .
+previews may not work correctly or in the same way a general availability version may work .
+microsoft may change or discontinue previews at any time without notice .
+microsoft also may choose not to release a preview into general availability .
+if customer provides suggestions , comments , input , or other feedback about any trial service , including previews %LBR " feedback " %RBR , customer gives to microsoft without charge the right to use , share , and commercialize customer 's feedback in any way or for any purpose .
+customer also gives to third parties without charge the right to use or interface with any specific parts of a microsoft software or service that includes the feedback .
+you will not give feedback that is subject to any license that requires microsoft to license its software , documentation , or services to third parties because microsoft includes customer 's feedback in them .
+this agreement begins as specified above and continues until terminated as provided in this section %NUMBER .
+customer 's rights to access and use a specific trial service , however , will expire as specified in the applicable trial service specific terms .
+for clarity , the trial period for any trial service can be applied at different times to different customer personnel , so long as :
+%LBR a %RBR no user is given more than a single trial period for a given trial service %LBR unless microsoft agrees , in writing , to extend a given trial period for a given set of users %RBR ; and %LBR b %RBR customer 's use of separate trial periods for given customer personnel for a given trial service is not a means for customer to avoid , limit , or delay the purchase of commercial subscriptions to that trial service .
+if customer violates this agreement or is ineligible to enter into it , microsoft may :
+%LBR a %RBR remove customer 's customer data from the applicable trial service or disable customer 's access to such customer data ; %LBR b %RBR suspend customer 's access to the trial service , %LBR c %RBR refer such activity to appropriate authorities ; %LBR d %RBR pursue microsoft 's remedies under applicable law ; or %LBR e %RBR take any combination of these actions .
+microsoft may also , for any reason or no reason , in its sole discretion :
+%LBR w %RBR stop offering any trial service at any time , %LBR x %RBR terminate customer 's access to any trial service , or this agreement , at any time ; %LBR y %RBR suspend customer 's access under section %NUMBER %LBR acceptable use policy %RBR ; or %LBR z %RBR in accordance with section %NUMBER %LBR changes to the trial services %RBR , stop providing portions of any trial service .
+if customer 's admin has assumed control of customer 's user account , the admin may modify or remove customer 's access to a trial service .
+even in the absence of an admin takeover , the organization , as owner of the domain associated with customer 's email , may also modify or remove customer 's access to a trial service .
+review the trial service specific terms and the website , if any , for the specific trial service for any additional details .
+customer may terminate its access to or use of the trial service associated with customer 's user account at any time and for any reason , without further obligation , unless the admin has assumed control of customer 's user account .
+in such case , customer must contact its admin to manage the applicable trial service %LBR including terminating a specific trial service , disabling customer 's user account , or deleting customer data %RBR .
+if an admin has not assumed control of customer 's user account for a specific trial service , review the trial service specific terms and the website , if any , for the specific trial service to understand how to terminate it , disable customer 's user account , or delete customer data .
+if customer 's right to access a trial service is terminated , the right to use that trial service stops immediately and customer 's license to use the software related to that trial service ends .
+if customer 's right to access a trial service is terminated , subject to the applicable trial service specific terms , microsoft will delete customer 's information or customer data or will otherwise disable customer 's access to such information or customer data .
+microsoft is under no obligation to notify , or to return customer data to , customer , except as specified in the applicable trial service specific terms .
+customer must uninstall any software when its right to use it ends .
+microsoft may also disable such software at that time .
+use of microsoft software with the trial service
+microsoft may provide customer with microsoft software or microsoft apps %LBR collectively , " software " %RBR as part of , or for use with , a trial service .
+if the software includes its own license , those terms control ; otherwise , this section %NUMBER applies .
+microsoft grants customer the right to install and run any number of copies of the software on customer 's devices for use with the specific trial service in connection with which the software was provided .
+the components of the software are licensed as a single unit , and customer may not separate or virtualize the components and install them on different devices .
+this agreement only gives customer some rights to use the software .
+unless applicable law gives customer more rights despite this limitation , customer may use the software only as expressly permitted in this agreement .
+in doing so , customer must comply with any technical limitations in the software that allow customer to use it only in certain ways .
+for purposes of this agreement , " customer data " means all data , including all text , sound , video , or image files , and software , that are provided to microsoft by , or on behalf , of customer through use of any trial service .
+microsoft uses and protects customer 's customer data as outlined in the microsoft online services privacy statement at %WEBSITE
+customer 's access to and use of any trial service operates as customer 's consent to these privacy practices .
+notwithstanding anything to the contrary in the microsoft online services privacy statement , however , the admin %LBR if any %RBR is authoritative for purposes of managing customer 's responses to third party requests , and the admin may access and disclose to a third party any customer data of customer or its personnel that the admin has access to , in his or her discretion .
+customer is solely responsible for the content of all customer data .
+customer will secure and maintain all rights in customer data necessary for microsoft to provide the trial service to customer without violating customer 's policies or the rights of any third party , or otherwise obligating microsoft to customer or to any third party .
+microsoft does not and will not assume any obligations with respect to customer data or to customer 's use of any trial service other than as expressly set forth in this agreement or as required by applicable law .
+until such time as an admin %LBR acting on customer 's behalf %RBR has assumed control of customer 's user account , customer is responsible for customer data .
+if an admin has assumed control of customer 's user account , the admin controls customer data and access to the organization pursuant to section %NUMBER . subject to customer 's policies %LBR to the extent they do not conflict with this agreement %RBR , customer may delete customer 's own customer data from any trial service , so long as customer is still a user of that trial service .
+if an admin has assumed control of customer 's user account , and customer has questions regarding rights to customer data , customer must contact the admin as microsoft can not answer individual user questions regarding customer data after an admin has assumed control .
+if customer shares customer data in public areas of a trial service , through features that permit public sharing of customer data , or in shared areas available to others , anyone with whom customer has shared customer data may use , save , reproduce , distribute , display , and transmit that customer data freely .
+if customer does not want others to have that ability , customer must not %LBR and has no right to %RBR use the particular trial service to share customer data .
+microsoft strives to keep the trial service up and running ; however , all online services suffer occasional disruptions and outages , and microsoft is n't liable for any disruption or loss customer may suffer as a result .
+during such periods , customer may be unable to access or use all or a portion of any trial service and some or all customer data may be deleted .
+if microsoft determines that an outage or disruption may cause risk to any trial service , microsoft may , without limitation to microsoft 's other rights under this agreement , suspend the trial service .
+to the extent a trial service allows , customer should regularly back up the customer data customer may store on a trial service .
+having a regular backup plan and following it can help customer prevent loss of customer data .
+a trial service or software may also collect information about customer and customer 's use of the trial service or software and send that information to microsoft .
+microsoft may use this information to provide services and improve microsoft 's products and services .
+customer 's opt - out rights , if any , are described in the product documentation .
+some features in a trial service or software may enable collection of data from users of customer 's applications that access or use a trial service or software .
+if customer uses these features to enable data collection in customer 's applications , customer must comply with applicable law , including getting any required user consent , and maintain a prominent privacy policy that accurately informs users about how customer uses , collects , and shares their data .
+customer can learn more about microsoft 's data collection and use in the website , if any , for the specific trial service , and the microsoft privacy statement at %WEBSITE
+customer will comply with all applicable provisions of the microsoft privacy statement .
+by using a trial service or its related software , customer %LBR on customer 's own behalf and on behalf of any users %RBR consents to the transmission of the information described in this section %NUMBER .
+customer may be able to access other microsoft software , data , services , websites , or products %LBR " other microsoft products " %RBR via a trial service .
+customer 's use of other microsoft products may be subject to separate terms and conditions .
+microsoft may make third - party - branded software , data , services , websites , or products %LBR " non - microsoft products " %RBR available to customer through use of a trial service %LBR such as through a store or gallery or other integration %RBR .
+customer is solely responsible for its dealings with third parties %LBR including advertisers %RBR .
+customer 's use of non - microsoft products may be subject to the third party 's terms and conditions .
+if customer installs or uses any non - microsoft product with a trial service , customer may not do so in any way that would subject microsoft 's intellectual property or technology to obligations beyond those expressly included in this agreement .
+microsoft assumes no responsibility or liability whatsoever for any non - microsoft product .
+customer is solely responsible for any non - microsoft product it installs or uses with a trial service .
+microsoft , and its affiliates , suppliers , resellers , distributors , and vendors , make no warranties , express or implied , guarantees , or conditions with respect to customer 's use of any trial service .
+customer understands that use of the trial service is at customer 's own risk , and microsoft provides each trial service on an " as is " basis , " with all faults " and " as available " .
+microsoft does not guarantee the accuracy or timeliness of information available from the trial service .
+to the extent permitted under applicable law , microsoft excludes any implied warranties , including for merchantability , satisfactory quality , fitness for a particular purpose , workmanlike effort , and non - infringement .
+customer may have certain rights under applicable law that can not be varied by this agreement .
+nothing in this agreement is intended to affect , or try to affect , those rights to the extent applicable law does not permit . customer acknowledges that computer and telecommunications systems are not fault - free and occasional periods of downtime occur . microsoft does not guarantee the trial service will be uninterrupted , timely , secure , or error - free or that customer data loss will not occur .
+if microsoft breaches this agreement , or if customer has any basis for recovering damages despite this agreement 's limitations , customer 's exclusive remedy is to recover , from microsoft or its affiliates , suppliers , resellers , distributors , and vendors , direct damages up to usd $ %NUMBER in the aggregate .
+these limitations and exclusions apply even if this remedy does not fully compensate customer for any losses , or fails of its essential purpose , or if microsoft knew or should have known about the possibility of the damages .
+to the maximum extent permitted by applicable law , these limitations and exclusions apply to anything related to this agreement such as :
+%LBR a %RBR loss of customer data ; %LBR b %RBR any virus affecting customer 's use of any trial service ; %LBR c %RBR delays or failures in starting or completing transmissions or transactions ; %LBR d %RBR claims for breach of contract , warranty , guarantee , or condition ; %LBR e %RBR strict liability , negligence , misrepresentation , omission , trespass , or other tort ; %LBR f %RBR violation of statute or regulation ; or %LBR g %RBR unjust enrichment .
+some or all of these limitations or exclusions may not apply to customer if customer 's state , province , or country does not allow the exclusion or limitation of incidental , consequential , or other damages .
+the trial service may be made available for use only in certain geographies and for use only by certain classes of organizations , as and to the extent specified in the applicable trial service specific terms .
+if customer is signing up for the trial service from a geography that is not included , or if its organization is not of the class specified , in the applicable trial service specific terms :
+%LBR a %RBR customer is ineligible to access or use the trial service ; and %LBR b %RBR without limiting the generality of section %NUMBER , customer 's access and use of the trial service is solely at customer 's own risk %LBR including for compliance with applicable laws %RBR .
+if the trial service specific terms do not include any geographic limitations , or limitations on the class of organizations eligible to access and use the trial service , there are no such limitations .
+binding arbitration and class action waiver if customer lives %LBR or is an entity with its principal place of business or primary location %RBR in the united states
+this section applies if customer lives in %LBR or , if an entity , your principal place of business or primary location is in %RBR the united states .
+if customer and microsoft have a dispute , customer and microsoft agree to try for %NUMBER days to resolve it informally .
+if customer and microsoft ca n't , customer and microsoft agree to binding individual arbitration before the american arbitration association under the federal arbitration act %LBR " faa " %RBR , and not to sue in court in front of a judge or jury .
+class action lawsuits , class - wide arbitrations , private attorney - general actions , and any other proceeding where someone acts in a representative capacity are not allowed ; nor is combining individual proceedings without the consent of all parties .
+the complete arbitration agreement contains more terms and is at %WEBSITE
+customer will indemnify , pay the defense costs of , and hold harmless microsoft and its affiliates , and its and their respective successors , officers , directors , and employees , from and against any and all unaffiliated third - party claims , demands , costs , liabilities , judgments , losses , expenses , and damages %LBR including attorneys ' fees %RBR arising out of , in connection with , or related to :
+%LBR a %RBR customer 's or customer 's personnel 's use of a trial service in breach of this agreement ; %LBR b %RBR customer 's or customer 's personnel 's use of a trial service in a production or " live operating " environment ; or %LBR c %RBR anything not provided by microsoft or its affiliates that customer or customer 's personnel elect to use with a trial service %LBR including any data , software , or services %RBR , including any claim that any such materials or information , in whole or in part , misappropriate any trade secret or infringe or otherwise violate any copyright , patent , trademark , or other legal right of any third party %LBR collectively , " customer - indemnified claims " %RBR .
+%LBR y %RBR notify customer in writing of any customer - indemnified claims and permit customer , through competent counsel customer chooses %LBR in consultation with microsoft %RBR , to answer and defend such customer - indemnified claims ; and %LBR z %RBR provide the entity defending such customer - indemnified claims information , assistance , and authority , at customer 's reasonable request and expense , to help such defense .
+customer will not stipulate , admit , or acknowledge any fault or liability on microsoft 's part without microsoft 's express , prior , written permission .
+customer will not be responsible for any settlement made by microsoft without customer 's written permission %LBR which customer will not unreasonably withhold , delay , or condition %RBR .
+customer may not settle any customer - indemnified claims on microsoft 's behalf without first obtaining microsoft 's written permission %LBR which microsoft will not unreasonably withhold , delay , or condition %RBR .
+if customer and microsoft agree to settle any customer - indemnified claims , customer will not disclose settlement terms without microsoft 's written permission .
+applicable law and place to resolve disputes .
+if customer acquired access to the applicable trial service or software in the united states or canada , the laws of the state or province where customer lives %LBR or , if customer is an entity , where customer 's principal place of business or customer 's primary location is %RBR govern the interpretation of this agreement , claims for its breach , and all other claims %LBR including consumer protection , unfair competition , and tort claims %RBR , regardless of conflict of laws principles , except that the faa governs everything related to arbitration .
+if customer acquired access to a trial service or the software in any other country , its laws apply , except that the faa governs everything related to arbitration .
+if u . s . federal jurisdiction exists , customer and microsoft consent to exclusive jurisdiction and venue in the federal court in king county , washington for all disputes heard in court %LBR excluding arbitration %RBR .
+if not , customer and microsoft consent to exclusive jurisdiction and venue in the superior court of king county , washington for all disputes heard in court %LBR excluding arbitration %RBR .
+if customer accesses material protected with digital rights management %LBR " drm " %RBR , the drm software may automatically request media usage rights from a rights server online and download and install drm updates so that customer can play the material .
+this section and sections %NUMBER , %NUMBER , %NUMBER , %NUMBER , %NUMBER , %NUMBER , %NUMBER , and those that by their terms apply after it ends , will survive any termination of this agreement .
+microsoft may assign this agreement , in whole or in part , at any time without notice to customer .
+customer may not assign this agreement or transfer any rights to use any trial service .
+microsoft may provide customer with information and notices about a trial service or the software electronically , including via email , through the portal for a trial service , or through a web site that microsoft identifies .
+notice is given as of the date it is made available by microsoft .
+customer 's access and use of a trial service or the software operates as customer 's consent to these practices .
+this agreement is the entire agreement between customer and microsoft for customer 's use of any trial service .
+it supersedes any prior agreements between customer and microsoft regarding this subject .
+all parts of this agreement apply to the maximum extent permitted by applicable law .
+if a court or arbitrator holds that part of this agreement is illegal or unenforceable as written , that part will be deemed replaced with similar terms to the extent enforceable , but the rest of this agreement will not change .
+captions are intended solely for convenience and will not affect the meaning of this agreement .
+this agreement has been executed in english , which will be the sole and controlling language used in interpreting or construing its meaning %LBR except if otherwise required by applicable law %RBR .
+solely for purposes of sections %NUMBER , %NUMBER , %NUMBER , and %NUMBER , each trial service is deemed to include other microsoft products , non - microsoft products , any software , and anything else provided by microsoft to customer under or in relation to this agreement .
+no third - party beneficiaries . this agreement is solely for customer 's and microsoft 's benefit .
+it is n't for the benefit of any other person , except for microsoft 's successors and assigns .
+this section %NUMBER applies if customer is employed by a governmental entity .
+microsoft waives any and all entitlement to compensation from customer for any trial service or software provided pursuant to this agreement .
+microsoft intends that the terms for any trial service and software be in compliance with applicable laws and regulations with respect to gratuitous services .
+it is specifically understood that any trial service or software and its deliverables provided are for the sole benefit and use of customer and are not provided for personal use or benefit of any individual government employee .
+while accessing a trial service , customer may use its fonts to display and print content .
+customer may temporarily download the fonts to a printer or other output device to print content , and customer may embed fonts in content only as permitted by the embedding restrictions in the fonts .
+microsoft is not obligated to provide any support for any trial service or software .
+if microsoft elects to do so , it is provided " as is " , " with all faults " , and without warranty .
+microsoft may cease providing any such support at any time , without notice , and such support will end automatically on the earlier of the date the applicable trial period or this agreement ends .
+customer must comply with all domestic and international export laws and regulations that apply to any software or the trial service , which include restrictions on destinations , end users , and end use .
+for further information on export restrictions , visit %WEBSITE
+microsoft or its suppliers own any and all right , title , and interest in any copyright and other intellectual property rights in each trial service %LBR which are deemed to exclude customer 's customer data %RBR .
+microsoft and the names , logos , and icons of all microsoft products , software , and services may be either trademarks or registered trademarks of microsoft in the united states or other countries .
+the names of actual companies and products may be the trademarks of their respective owners .
+any rights not expressly granted in this agreement are reserved .
+if customer is a direct competitor , and customer accesses or uses any trial service or software for purposes of competitive benchmarking , analysis , or intelligence gathering , customer waives , as against microsoft , its subsidiaries , and its affiliated companies %LBR including prospectively %RBR , any competitive use , access , and benchmarking test restrictions in the terms governing customer 's software , services , and other technologies to the extent customer 's terms of use are , or purport to be , more restrictive than microsoft 's terms .
+if customer does not waive any such purported restrictions in the terms governing its software , services , and other technologies , it is not allowed to access or use any trial service or software , and will not do so .
+any additional legal terms that apply to customer 's use of a specific trial service %LBR " trial service specific terms " %RBR are set forth in this part ii .
+if a particular trial service links to this agreement and it is not listed in the trial service specific terms , it does not have any trial service specific terms .
+for avoidance of doubt , different trial service specific terms may be applicable to customer or its personnel at different times , and multiple trial service specific terms may be applicable at one time , all depending on which trial periods are in effect for which trial services at any given time .
+these terms supplement the applicable terms in part i above .
+customer may use this trial service from when customer is first given access to it :
+%LBR a %RBR solely with demonstration data provided by microsoft , until the agreement or customer 's right to access this trial service is terminated ; and %LBR b %RBR with " live " or production customer data , for %NUMBER days after customer first uses this trial service with such customer data .
+customer may , however , continue to use the trial service under the foregoing clause %LBR a %RBR , solely with such demonstration data .
+%LBR a %RBR microsoft has no obligation to return customer data to customer ; %LBR b %RBR microsoft will retain such customer data for at least %NUMBER days after the expiration of the trial period ; and %LBR c %RBR microsoft will make commercially reasonable efforts to work with customer to export such customer data .
+without limiting the generality of section %NUMBER of part i , microsoft may terminate customer 's access to this trial service at any time if customer fails to access and actively use this trial service for any period of %NUMBER consecutive days .
+there may be up to five concurrent trials of this trial service ongoing at any given time for customer 's organization %LBR each , a " trial instance " %RBR , and each such trial instance will remain accessible for a %NUMBER - day period beginning on the date when the first user of a given trial instance is first given access to it %LBR " trial instance effective date " %RBR until the date that is %NUMBER days after such trial instance effective date %LBR each , a " trial period " %RBR , subject to earlier termination as provided in part i above or otherwise in these trial service specific terms for this trial service .
+any given user in customer 's organization who wants to gain access to this trial service may either create a new trial instance %LBR if one is then available , subject to the foregoing limit on concurrent trial instances %RBR , in which case the trial period applicable to that user is %NUMBER days , or may join any of the then - existing trial instances for customer 's organization , in which case the trial period applicable to that user is the remainder of the %NUMBER - day period that began on the trial instance effective date for that trial instance .
+when the trial period for any given trial instance expires , that trial instance may be made available to customer to export data in accordance with section %NUMBER of the trial service specific terms for this trial service , after which that trial instance will be deleted and customer may create a new trial instance in its place %LBR subject to the foregoing limit on concurrent trial instances %RBR .
+without limiting the generality of section %NUMBER of part i , microsoft may terminate customer 's access to this trial service through a given trial instance at any time if customer fails to access and actively use this trial service through such trial instance for any period of %NUMBER consecutive days %LBR and microsoft may terminate customer 's access to this trial service through all trial instances at any time if customer fails to access and actively use this trial service through all such trial instance for any period of %NUMBER consecutive days %RBR .
+notwithstanding anything in section %NUMBER of part i to the contrary , as applicable to this trial service and solely to the extent there is not already an admin associated with customer 's organization , the admin is deemed to be the first user in customer 's organization who creates a trial instance , subject to later change by anyone authorized to act on behalf of that organization who demonstrates administrative control over the domain associated with the email for that organization sufficient to manage the domain records .
+notwithstanding anything in section %NUMBER of part i to the contrary , customer acknowledges %LBR and will inform all users in customer 's domain %RBR that :
+if customer has included " live " or production customer data in any trial instance of this trial service , and customer elects not to purchase a subscription to the microsoft dynamics %NUMBER for sales service , customer service , field service , and / or project service automation service before expiration of the trial period for that trial instance :
+%LBR a %RBR microsoft has no obligation to return customer data to customer ; %LBR b %RBR microsoft will retain such customer data for at least %NUMBER days after the expiration of the applicable trial period for that trial instance ; and %LBR c %RBR microsoft will make commercially reasonable efforts to work with customer to export such customer data .
+this cloud services agreement %LBR csa %RBR and applicable attachments and transaction documents %LBR tds %RBR are the complete agreement regarding transactions under this csa %LBR together , the " agreement " %RBR under which client may order cloud services .
+attachments typically contain additional terms that apply to similar types of offerings .
+tds , such as service descriptions , order documents or statements of work , contain specific details related to an order for a cloud service and there may be more than one td providing the details of an order .
+in the event of conflict , an attachment prevails over this csa and a td prevails over both the csa and any attachment .
+a cloud service is an ibm branded offering provided by ibm and made available via a network .
+each cloud service is described in an attachment or a td .
+a cloud service may not be used in any jurisdiction for unlawful , obscene , offensive or fraudulent content or activity , such as advocating or causing harm , interfering with or violating the integrity or security of a network or system , evading filters , sending unsolicited , abusive , or deceptive messages , viruses or harmful code , or violating third party rights .
+client may not i %RBR resell direct access to a cloud service to a third party outside client 's enterprise ; or ii %RBR combine cloud services with client 's value add to create a commercially available client branded solution for which client charges a fee .
+content consists of all data , software , and information that client or its authorized users provides , authorizes access to , or inputs to the cloud service .
+use of the cloud service will not affect client 's existing ownership or license rights in such content .
+ibm and its contractors , and subprocessors may access and use the content solely for the purpose of providing and managing the cloud service , unless otherwise described in a td .
+client is responsible for obtaining all necessary rights and permissions to enable , and grants such rights and permissions to , ibm , and its contractors and subprocessors to use , provide , store and process content in the cloud service .
+this includes client making necessary disclosures and obtaining consent , if required , before providing individuals ' information , including personal or other regulated information in such content .
+if any content could be subject to governmental regulation or may require security measures beyond those specified by ibm for an offering , client will not input , provide , or allow such content unless specifically permitted in the terms of the relevant td or unless ibm has otherwise first agreed in writing to implement additional security and other measures .
+upon request by either party , ibm , client or their affiliates will enter into additional agreements as required by law in the prescribed form for the protection of personal or regulated personal data included in content .
+the parties agree %LBR and will ensure that their respective affiliates agree %RBR that such additional agreements will be subject to the terms of the agreement .
+ibm will return or remove content from ibm computing resources upon the expiration or cancellation of the cloud service , or earlier upon client 's request .
+ibm may charge for certain activities performed at client 's request %LBR such as delivering content in a specific format %RBR .
+ibm does not archive content , however some content may remain in cloud service backup files until expiration of such files as governed by ibm 's backup retention practices .
+each cloud service is designed to protect content as described in the agreement .
+ibm 's data security and privacy principles for ibm cloud services %LBR dsp %RBR , at < ~ + : %NUMBER > %WEBSITE
+ibm will treat all content as confidential by not disclosing content except to ibm employees , contractors , and subprocessors , and only to the extent necessary to deliver the cloud service , unless otherwise specified in a td .
+specific security features and functions of a cloud service may be provided in an attachment and tds .
+client is responsible to assess the suitability of each cloud service for client 's intended use and content .
+by using the cloud service , client acknowledges that it meets client 's requirements and processing instructions .
