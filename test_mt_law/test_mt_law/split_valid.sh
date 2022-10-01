@@ -2,9 +2,9 @@
 #####    Shell script to extract valid dataset files from the total dataset   #########
 ##################################################################################
 
-filename1="/home/aisha/test_mt_law/training_data/en-ar-law-source.bpe"  ## Specify the path to source dataset file
-filename2="/home/aisha/test_mt_law/training_data/en-ar-law-target.bpe"  ## Specify the path to target dataset file
-filename3="/home/aisha/test_mt_law/training_data/enarlawtest.talp"     ## Specify the path to alignment file (.talp)
+filename1="/home/aisha/test_mt_law/training_data/en-ar-law-source.bpe"  # Specify the path to source dataset file
+filename2="/home/aisha/test_mt_law/training_data/en-ar-law-target.bpe"  # Specify the path to target dataset file
+filename3="/home/aisha/test_mt_law/training_data/enarlawtest.talp"     # Specify the path to alignment file (.talp)
 
 line_count="$(wc -l < "$filename1")"
 valid_size=100                      ## Specify the validation dataset size
